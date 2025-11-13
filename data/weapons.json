@@ -1,0 +1,4064 @@
+{
+  "Swords": [
+    {
+      "name": "Shortsword",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "First Aid (A) (SLD/WAR|100)"
+      ]
+    },
+    {
+      "name": "Silver Sword",
+      "WAtt": 30,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Speedbreak (A) (SLD/WAR|200)"
+      ]
+    },
+    {
+      "name": "Buster Sword",
+      "WAtt": 35,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Mindbreak (A) (SLD/WAR|200)"
+      ]
+    },
+    {
+      "name": "Burglar Sword",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Sensor (A) (SLD|300)"
+      ]
+    },
+    {
+      "name": "Gale Sword",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 1,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Wind",
+      "special_effects": "none",
+      "abilities": [
+        "Greased Bolt (A) (WAR|300)"
+      ]
+    },
+    {
+      "name": "Blood Sword",
+      "WAtt": 18,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Drain's HP",
+      "abilities": [
+        "Provoke (A) (SLD|300)"
+      ]
+    },
+    {
+      "name": "Restorer",
+      "WAtt": 40,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Downsize (A) (WAR|300)"
+      ]
+    },
+    {
+      "name": "Vitanova",
+      "WAtt": 38,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "Holy",
+      "special_effects": "[absb]Holy",
+      "abilities": [
+        "Dragonheart (R) (DRG|300)"
+      ]
+    },
+    {
+      "name": "Mythril Sword",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Combat Combo (C) (SLD/WAR|100)"
+      ]
+    },
+    {
+      "name": "Victor Sword",
+      "WAtt": 33,
+      "WDef": 10,
+      "MPow": 0,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Onion Sword",
+      "WAtt": 29,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 10,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Chirirjiraden",
+      "WAtt": 65,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Laglace Sword",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Blades": [
+    {
+      "name": "Sweep Blade",
+      "WAtt": 28,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Rush (A) (FGT/GLD|100)"
+      ]
+    },
+    {
+      "name": "Shadow Blade",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Beatdown (A) (FGT/GLD|200)"
+      ]
+    },
+    {
+      "name": "Sun Blade",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Blitz (A) (FGT/GLD|200)"
+      ]
+    },
+    {
+      "name": "Atmos Blade",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "none",
+      "abilities": [
+        "Air Render (A) (FGT|200)"
+      ]
+    },
+    {
+      "name": "Flametongue",
+      "WAtt": 38,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "Backdraft (A) (FGT|300)"
+      ]
+    },
+    {
+      "name": "Air Blade",
+      "WAtt": 40,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Wind",
+      "special_effects": "[null]Wind",
+      "abilities": [
+        "Air Blast (A) (FGT|300)"
+      ]
+    },
+    {
+      "name": "Icebrand",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "none",
+      "abilities": [
+        "Ice Sword (A) (GLD|200)"
+      ]
+    },
+    {
+      "name": "Kwigon Blade",
+      "WAtt": 40,
+      "WDef": 3,
+      "MPow": 0,
+      "MRes": 3,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Far Fist (A) (FGT|200)"
+      ]
+    },
+    {
+      "name": "Ogun Blade",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Wild Swing (A) (FGT/GLD|200)"
+      ]
+    },
+    {
+      "name": "Pearl Blade",
+      "WAtt": 46,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Mog Shield (A) (MOG|300)"
+      ]
+    },
+    {
+      "name": "Paraiba Blade",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 10,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Mog Peek (A) (MOG|300)"
+      ]
+    },
+    {
+      "name": "Venus Blade",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "[absb]Fire",
+      "abilities": [
+        "Doublehand (S) (FGT/GLD|300)"
+      ]
+    },
+    {
+      "name": "Materia Blade",
+      "WAtt": 17,
+      "WDef": 0,
+      "MPow": 15,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Ultima Charge (A) (MOG|999) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Blade",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Fight Combo (C) (FGT/GLD/MOG|100)"
+      ]
+    },
+    {
+      "name": "Ebon Blade",
+      "WAtt": 84,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Adaman Blade",
+      "WAtt": 65,
+      "WDef": 15,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Ayvuir Red",
+      "WAtt": 62,
+      "WDef": 10,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Ayvuir Blue",
+      "WAtt": 51,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Sabers": [
+    {
+      "name": "Blue Saber",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Learning (S) (BLU|400)"
+      ]
+    },
+    {
+      "name": "Mythril Saber",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Blue Combo (C) (BLU|100)"
+      ]
+    },
+    {
+      "name": "Shamshir",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Aqua Saber",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 6,
+      "element": "Water",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Harpe",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Manganese",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 10,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 3,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Tulwar",
+      "WAtt": 55,
+      "WDef": 10,
+      "MPow": 0,
+      "MRes": 10,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Soulsaber",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Knightswords": [
+    {
+      "name": "Defender",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Nurse (A) (PAL|100)"
+      ]
+    },
+    {
+      "name": "Apocalypse",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "none",
+      "abilities": [
+        "Rasp (A) (TEM|100)"
+      ]
+    },
+    {
+      "name": "Lionheart",
+      "WAtt": 34,
+      "WDef": 2,
+      "MPow": 0,
+      "MRes": 1,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Defense (A) (PAL/DEF|200)"
+      ]
+    },
+    {
+      "name": "Ragnarok",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Drop Weapon (A) (PAL/DEF|200)"
+      ]
+    },
+    {
+      "name": "Lohengrin",
+      "WAtt": 46,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Aura (A) (DEF|300)"
+      ]
+    },
+    {
+      "name": "SaveTheQueen",
+      "WAtt": 45,
+      "WDef": 3,
+      "MPow": 0,
+      "MRes": 3,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "Holy",
+      "special_effects": "[enhn]Holy",
+      "abilities": [
+        "Cover (A) (PAL|200)"
+      ]
+    },
+    {
+      "name": "Arch Sword",
+      "WAtt": 48,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Saint Cross (A) (PAL|300)"
+      ]
+    },
+    {
+      "name": "Excalibur",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 1,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "Holy",
+      "special_effects": "[enhn]Holy",
+      "abilities": [
+        "Holy Blade (A) (PAL|300)"
+      ]
+    },
+    {
+      "name": "Mythril Brand",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Knight Combo (C) (PAL|100) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Excalibur2",
+      "WAtt": 87,
+      "WDef": 0,
+      "MPow": 3,
+      "MRes": 0,
+      "Spd": 4,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Nagrarok",
+      "WAtt": 75,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 6,
+      "Mov": 1,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Sequence*",
+      "WAtt": 32,
+      "WDef": 2,
+      "MPow": 5,
+      "MRes": 2,
+      "Spd": 2,
+      "Mov": 1,
+      "Jmp": 1,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "WAtt growth",
+      "abilities": []
+    }
+  ],
+  "Greatswords": [
+    {
+      "name": "Barong",
+      "WAtt": 30,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Powerbreak (A) (SLD|200)"
+      ]
+    },
+    {
+      "name": "Ancient Sword",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Petrify",
+      "abilities": [
+        "Magicbreak (A) (SLD|200)"
+      ]
+    },
+    {
+      "name": "Diamond sword",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Slow -",
+      "abilities": [
+        "Mug (A) (SLD|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Hardedge",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Doom",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Vigilante",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Confusion",
+      "abilities": [
+        "Monkey Grip (S) (SLD|300)"
+      ]
+    },
+    {
+      "name": "Zankplus",
+      "WAtt": 49,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Poison -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Master Sword",
+      "WAtt": 59,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]KO -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Oblige",
+      "WAtt": 48,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Charm -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Iceprism",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "[null]Fire/Ice -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Lurebreaker",
+      "WAtt": 51,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Sleep -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Broadswords": [
+    {
+      "name": "Samson Sword",
+      "WAtt": 32,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "none",
+      "abilities": [
+        "Powerbreak (A) (WAR|200)"
+      ]
+    },
+    {
+      "name": "Falchion",
+      "WAtt": 27,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Magicbreak (A) (WAR|200)"
+      ]
+    },
+    {
+      "name": "Predator",
+      "WAtt": 37,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Last Berserk (S) (DEF|300)"
+      ]
+    },
+    {
+      "name": "Striborg",
+      "WAtt": 33,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Body Slam (A) (WAR|300)"
+      ]
+    },
+    {
+      "name": "El Cid Sword",
+      "WAtt": 47,
+      "WDef": 10,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Tremor (A) (DEF|100)"
+      ]
+    },
+    {
+      "name": "Claymore",
+      "WAtt": 49,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Monkey Grip (S) (WAR|300)"
+      ]
+    },
+    {
+      "name": "Vajra",
+      "WAtt": 45,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "[enhn]Lightning",
+      "abilities": [
+        "Meltdown (A) (DEF|200)"
+      ]
+    },
+    {
+      "name": "Tabarise",
+      "WAtt": 47,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Rhomphia",
+      "WAtt": 57,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Beastsword",
+      "WAtt": 50,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Eclipse",
+      "WAtt": 76,
+      "WDef": 5,
+      "MPow": 5,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Estreledge",
+      "WAtt": 77,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Knives": [
+    {
+      "name": "Jack Knife",
+      "WAtt": 22,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Gil (A) (THF|100)"
+      ]
+    },
+    {
+      "name": "Kris Knife",
+      "WAtt": 30,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Hurl (A) (JGL|100)"
+      ]
+    },
+    {
+      "name": "Khukuri",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: EXP (A) (THF|100)"
+      ]
+    },
+    {
+      "name": "Kard",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Helm (A) (THF|300)"
+      ]
+    },
+    {
+      "name": "Scramasax",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Shield (A) (THF|200)"
+      ]
+    },
+    {
+      "name": "Rondell Dagger",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "[null]Immobilize",
+      "abilities": [
+        "Steal: Armor (A) (THF|300)"
+      ]
+    },
+    {
+      "name": "Jambiya",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Access. (A) (THF|300)"
+      ]
+    },
+    {
+      "name": "Zorlin Shape",
+      "WAtt": 38,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 1,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Sword Breaker",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Weapon (A) (THF|300)"
+      ]
+    },
+    {
+      "name": "Orichalcum",
+      "WAtt": 60,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: JP (A) (THF|200)"
+      ]
+    },
+    {
+      "name": "Cinquedea",
+      "WAtt": 57,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 5,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Steal: Ability (A) (THF|300)"
+      ]
+    },
+    {
+      "name": "Mythril Knife",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Thief Combo (C) (THF|100)"
+      ]
+    },
+    {
+      "name": "Tonberrian",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 10,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Tiptaptwo",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 9,
+      "Spd": 15,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Rapiers": [
+    {
+      "name": "Stinger",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Swarmstrike (A) (FEN|100)"
+      ]
+    },
+    {
+      "name": "Estoc",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Featherblow (A) (FEN|200)"
+      ]
+    },
+    {
+      "name": "Fleuret",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Cure (A) (RED|100)"
+      ]
+    },
+    {
+      "name": "Scarlette",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "Fire (A) (RED|100)"
+      ]
+    },
+    {
+      "name": "Flamberge",
+      "WAtt": 35,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Piercethrough (A) (FEN|200)"
+      ]
+    },
+    {
+      "name": "Silver Rapier",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Shadowstick (A) (FEN|200)"
+      ]
+    },
+    {
+      "name": "Djinn Flyssa",
+      "WAtt": 34,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "Wind",
+      "special_effects": "[enhn]Wind",
+      "abilities": [
+        "Swallowtail (A) (FEN|300)"
+      ]
+    },
+    {
+      "name": "Joyeuse",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Nighthawk (A) (FEN|200)"
+      ]
+    },
+    {
+      "name": "Mage Masher",
+      "WAtt": 34,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 10,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Manastrike (A) (FEN|300)"
+      ]
+    },
+    {
+      "name": "Colichemarde",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Berserk",
+      "abilities": [
+        "Magic Pow+ (S) (RED|300)"
+      ]
+    },
+    {
+      "name": "Gupti Aga",
+      "WAtt": 38,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Checkmate (A) (FEN|300)"
+      ]
+    },
+    {
+      "name": "Madu",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Doublecast (A) (RED|999) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Epeprism",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[half]Holy/Dark -",
+      "abilities": [
+        "Elemental Shift(A) (EMT|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Rapier",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Red Combo (C) (RED|100)"
+      ]
+    },
+    {
+      "name": "Last Letter",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 3,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Femme Fatale",
+      "WAtt": 49,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Doom -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Aerial Hole",
+      "WAtt": 43,
+      "WDef": 0,
+      "MPow": 8,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Wind",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Diabolique",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "[null]Dark -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Katanas": [
+    {
+      "name": "Ninja Knife",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Throw (A) (NIN|100)"
+      ]
+    },
+    {
+      "name": "Murasame",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Water",
+      "special_effects": "none",
+      "abilities": [
+        "Water Veil (A) (NIN|200)"
+      ]
+    },
+    {
+      "name": "Ashura",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "Fire Veil (A) (NIN|200)"
+      ]
+    },
+    {
+      "name": "Osafune",
+      "WAtt": 35,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Earth Veil (A) (NIN|200)"
+      ]
+    },
+    {
+      "name": "Petalchaser",
+      "WAtt": 34,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Last Breath (A) (ASN|300)"
+      ]
+    },
+    {
+      "name": "Kotetsu",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Wood Veil (A) (NIN|200)"
+      ]
+    },
+    {
+      "name": "Kikuichimonji",
+      "WAtt": 40,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Metal Veil (A) (NIN|200)"
+      ]
+    },
+    {
+      "name": "Heaven's Cloud",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Holy",
+      "special_effects": "[absb]Holy",
+      "abilities": [
+        "Unspell (A) (NIN|300)"
+      ]
+    },
+    {
+      "name": "Nosada",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Double Sword (S) (NIN|999)"
+      ]
+    },
+    {
+      "name": "Masamune",
+      "WAtt": 65,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": []
+    },
+    {
+      "name": "Zanmato",
+      "WAtt": 22,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Ultima Masher (A) (ASN|999) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Epee",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Ninja Combo (C) (NIN|100)"
+      ]
+    },
+    {
+      "name": "Masamune",
+      "WAtt": 100,
+      "WDef": 79,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "0",
+      "special_effects": "none             none -",
+      "abilities": [
+        "Oblivion (A) (NIN/ASN|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Charfire",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Silkmoon",
+      "WAtt": 55,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Staves": [
+    {
+      "name": "White Staff",
+      "WAtt": 19,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Hit cures Doom",
+      "abilities": [
+        "Cure (A) (WHT|100)"
+      ]
+    },
+    {
+      "name": "Guard Staff",
+      "WAtt": 21,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Protect (A) (WHT|100)"
+      ]
+    },
+    {
+      "name": "Judge Staff",
+      "WAtt": 21,
+      "WDef": 0,
+      "MPow": 3,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "none",
+      "abilities": [
+        "Shell (A) (WHT|100)"
+      ]
+    },
+    {
+      "name": "Cure Staff",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Hit heals HP",
+      "abilities": [
+        "Cura (A) (WHT/BIS|200)"
+      ]
+    },
+    {
+      "name": "Pure Staff",
+      "WAtt": 23,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Esuna (A) (WHT|200)"
+      ]
+    },
+    {
+      "name": "Bless Staff",
+      "WAtt": 23,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Life (A) (WHT|200)"
+      ]
+    },
+    {
+      "name": "Snake Staff",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Petrify",
+      "abilities": [
+        "Break (A) (BIS|200)"
+      ]
+    },
+    {
+      "name": "Spring Staff",
+      "WAtt": 28,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Water",
+      "special_effects": "[null]Water",
+      "abilities": [
+        "Curaga (A) (WHT|300)"
+      ]
+    },
+    {
+      "name": "Garnet Staff",
+      "WAtt": 31,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Barrier (A) (BIS|300)"
+      ]
+    },
+    {
+      "name": "Cheer Staff",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Auto-Life (A) (WHT|200)"
+      ]
+    },
+    {
+      "name": "Nirvana Staff",
+      "WAtt": 34,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Holy",
+      "special_effects": "none -",
+      "abilities": [
+        "Full-Life (A) (WHT|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Staff",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Summon Combo (C) (SUM|100)"
+      ]
+    },
+    {
+      "name": "Power Staff",
+      "WAtt": 45,
+      "WDef": 6,
+      "MPow": 0,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Dream Watcher",
+      "WAtt": 43,
+      "WDef": 0,
+      "MPow": 10,
+      "MRes": 15,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Rods": [
+    {
+      "name": "Rod",
+      "WAtt": 18,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Fire (A) (BLK|100)"
+      ]
+    },
+    {
+      "name": "Firewheel Rod",
+      "WAtt": 21,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "Fira (A) (BLK|200)"
+      ]
+    },
+    {
+      "name": "Thunder Rod",
+      "WAtt": 21,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "none",
+      "abilities": [
+        "Thundara (A) (BLK|200)"
+      ]
+    },
+    {
+      "name": "Sleet Rod",
+      "WAtt": 21,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "none",
+      "abilities": [
+        "Blizzara (A) (BLK|200)"
+      ]
+    },
+    {
+      "name": "Terre Rod",
+      "WAtt": 23,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "[enhn]Earth",
+      "abilities": [
+        "Slow (A) (TIM|200)"
+      ]
+    },
+    {
+      "name": "Force Rod",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Quarter (A) (TIM|200)"
+      ]
+    },
+    {
+      "name": "Flame Rod",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "[enhn]Fire -",
+      "abilities": [
+        "Firaga (A) (BLK|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Thor Rod",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "[enhn]Lightning",
+      "abilities": [
+        "Thundaga (A) (BLK|300)"
+      ]
+    },
+    {
+      "name": "Chill Rod",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "[enhn]Ice -",
+      "abilities": [
+        "Blizzaga (A) (BLK|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Stardust Rod",
+      "WAtt": 29,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Demi (A) (TIM|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Princess Rod",
+      "WAtt": 35,
+      "WDef": 5,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[enhn]Wind &",
+      "abilities": [
+        "Star Cross (A) (ILU|300)"
+      ]
+    },
+    {
+      "name": "Mythril Rod",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Black Combo (A) (BLK|100)"
+      ]
+    },
+    {
+      "name": "Heretic Rod",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 20,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Sapere Aude*",
+      "WAtt": 18,
+      "WDef": 2,
+      "MPow": 5,
+      "MRes": 2,
+      "Spd": 2,
+      "Mov": 1,
+      "Jmp": 1,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "MPow growth",
+      "abilities": []
+    }
+  ],
+  "Maces": [
+    {
+      "name": "Battle Mace",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Water (A) (SAG|200)"
+      ]
+    },
+    {
+      "name": "Energy Mace",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Drain (A) (SAG|100)"
+      ]
+    },
+    {
+      "name": "Druid Mace",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 3,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Blind (A) (SAG|100)"
+      ]
+    },
+    {
+      "name": "Sage Crosier",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 8,
+      "MRes": 8,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Astra (A) (ALC|200)"
+      ]
+    },
+    {
+      "name": "Morning Star",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Magic Pow+ (S) (ALC|300)"
+      ]
+    },
+    {
+      "name": "Mandragora",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "[absb]Earth -",
+      "abilities": [
+        "Bio (A) (SAG|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Life Crosier",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 10,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Raise (A) (SAG|300)"
+      ]
+    },
+    {
+      "name": "Lotus Mace",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "[enhn]Fire",
+      "abilities": [
+        "Giga Flare (A) (SAG|300)"
+      ]
+    },
+    {
+      "name": "Scorpion Tail",
+      "WAtt": 38,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Meteor (A) (ALC|300)"
+      ]
+    },
+    {
+      "name": "Zeus Mace",
+      "WAtt": 15,
+      "WDef": 0,
+      "MPow": 5,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Ultima Blow (A) (SAG|999) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Mace",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Gold Combo (C) (ALC|100)"
+      ]
+    },
+    {
+      "name": "Cactus Stick",
+      "WAtt": 62,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Vesper",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Bows": [
+    {
+      "name": "Longbow",
+      "WAtt": 19,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Boost (A) (ARC|100)"
+      ]
+    },
+    {
+      "name": "Char Bow",
+      "WAtt": 21,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Blackout (A) (ARC|200)"
+      ]
+    },
+    {
+      "name": "Thorn Bow",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Aim: Legs (A) (ARC|200)"
+      ]
+    },
+    {
+      "name": "Nail Bow",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Aim: Arm (A) (ARC|200)"
+      ]
+    },
+    {
+      "name": "Silver Bow",
+      "WAtt": 23,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 6",
+      "abilities": [
+        "Burial (A) (ARC|300)"
+      ]
+    },
+    {
+      "name": "Artemis Bow",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 7",
+      "abilities": [
+        "Cupid (A) (ARC|200)"
+      ]
+    },
+    {
+      "name": "Yoichi Bow",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Take Aim (A) (ARC|300)"
+      ]
+    },
+    {
+      "name": "Target Bow",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Concentrate (S) (ARC|300)"
+      ]
+    },
+    {
+      "name": "Perseus Bow",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "Range: 6 -",
+      "abilities": [
+        "Faster (A) (ARC|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Bow",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5 -",
+      "abilities": [
+        "Bow Combo (C) (ARC|100) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Crescent Bow",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Malbow",
+      "WAtt": 55,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5 -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Greatbows": [
+    {
+      "name": "Windslash Bow",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "Wind",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Oust (A) (HNT|200)"
+      ]
+    },
+    {
+      "name": "Ranger Bow",
+      "WAtt": 23,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Capture (A) (HNT|200)"
+      ]
+    },
+    {
+      "name": "Cranequin",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Sonic Boom (A) (HNT|200)"
+      ]
+    },
+    {
+      "name": "Twin Bow",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Advice (A) (HNT|100)"
+      ]
+    },
+    {
+      "name": "Hunt Bow",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Hunting (A) (HNT|300)"
+      ]
+    },
+    {
+      "name": "Fey Bow",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "Wind",
+      "special_effects": "Range: 6 -",
+      "abilities": [
+        "Aim: Vitals (A) (HNT|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Hades Bow",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Sidewinder (A) (HNT|300)"
+      ]
+    },
+    {
+      "name": "Nike Bow",
+      "WAtt": 37,
+      "WDef": 5,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Weapon Atk+ (S) (HNT|300)"
+      ]
+    },
+    {
+      "name": "Master Bow",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "Range: 5 -",
+      "abilities": [
+        "Addle (A) (HNT|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Max's Oathbow",
+      "WAtt": 61,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "Range: 6 -",
+      "abilities": [
+        "Doom Archer (A) (SNP|300) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Seventh Heaven",
+      "WAtt": 15,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "Holy",
+      "special_effects": "Range: 5 -",
+      "abilities": [
+        "Ultima Shot (A) (HNT|999) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Shot",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 5",
+      "abilities": [
+        "Hunt Combo (C) (HNT|100)"
+      ]
+    },
+    {
+      "name": "Marduk Bow",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 7",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Arbalest",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "Range: 7 -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Gastra Bow",
+      "WAtt": 51,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 7",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Spears": [
+    {
+      "name": "Javelin",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Warcry (A) (TEM|300)"
+      ]
+    },
+    {
+      "name": "Lava Spear",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Fire Breath (A) (DRG|300)"
+      ]
+    },
+    {
+      "name": "Gae Bolg",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Lightng",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Bolt Breath (A) (DRG|300)"
+      ]
+    },
+    {
+      "name": "Ice Lance",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Ice",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Ice Breath (A) (DRG|300)"
+      ]
+    },
+    {
+      "name": "Partisan",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Cheer (A) (TEM|100)"
+      ]
+    },
+    {
+      "name": "Kain's Lance",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Lifebreak (A) (TEM|300)"
+      ]
+    },
+    {
+      "name": "Trident",
+      "WAtt": 50,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Weapon ATk+ (S) (TEM|300)"
+      ]
+    },
+    {
+      "name": "Dragon Whisker",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "Bangaa Cry (A) (DRG|200)"
+      ]
+    },
+    {
+      "name": "Mythril Spear",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 2,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2 -",
+      "abilities": [
+        "Dragon Combo (C) (DRG|100) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Odin Lance",
+      "WAtt": 55,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2 -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Beastspear",
+      "WAtt": 51,
+      "WDef": 10,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "none"
+      ]
+    },
+    {
+      "name": "Bangaa Spike",
+      "WAtt": 53,
+      "WDef": 5,
+      "MPow": 2,
+      "MRes": 5,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Pierce: 2",
+      "abilities": [
+        "none"
+      ]
+    }
+  ],
+  "Instruments": [
+    {
+      "name": "Demon Bell",
+      "WAtt": 22,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Goblin (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Glass Bell",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 1,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Sleep",
+      "abilities": [
+        "Lamia (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "War Trumpet",
+      "WAtt": 25,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Panther (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Conch Shell",
+      "WAtt": 31,
+      "WDef": 2,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Rockbeast (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Earth Bell",
+      "WAtt": 31,
+      "WDef": 3,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "[absb]Earth",
+      "abilities": [
+        "Dragon (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Black Quena",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "none",
+      "abilities": [
+        "Floateye (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Satyr Flute",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "[null]Charm",
+      "abilities": [
+        "Chocobo Rush (A) (ANM|300)"
+      ]
+    },
+    {
+      "name": "Fairy Harp",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Fairy (A) (BST|200) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Aona Flute",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 2,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Poison",
+      "abilities": [
+        "Malboro (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Heal Chime",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "Holy",
+      "special_effects": "[null]Doom",
+      "abilities": [
+        "Cuisine (A) (ANM|300)"
+      ]
+    },
+    {
+      "name": "Blood Strings",
+      "WAtt": 22,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "Absb HP on Hit",
+      "abilities": [
+        "Tonberry (A) (BST|200)"
+      ]
+    },
+    {
+      "name": "Mythril Bell",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Beast Combo (C) (BST|100)"
+      ]
+    },
+    {
+      "name": "Dark Fiddle",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "[null]Silence -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Fell Castanets",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Knuckles": [
+    {
+      "name": "Hard Knuckles",
+      "WAtt": 29,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Whirlwind (A) (MNK|100)"
+      ]
+    },
+    {
+      "name": "Rising Sun",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "Fire",
+      "special_effects": "none",
+      "abilities": [
+        "Exorcise (A) (MNK|300)"
+      ]
+    },
+    {
+      "name": "Sick Knuckles",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Green Gear (A) (GDT|200)"
+      ]
+    },
+    {
+      "name": "Dream Claws",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Chroma Gem (A) (GDT|200)"
+      ]
+    },
+    {
+      "name": "Kaiser Knuckles",
+      "WAtt": 42,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": []
+    },
+    {
+      "name": "Cat Claws",
+      "WAtt": 35,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 2,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Chakra (A) (MNK|200)"
+      ]
+    },
+    {
+      "name": "Survivor",
+      "WAtt": 37,
+      "WDef": 2,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Revive (A) (MNK|300)"
+      ]
+    },
+    {
+      "name": "White Fang",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "Ice",
+      "special_effects": "none",
+      "abilities": [
+        "Holy Sign (A) (MNK|200)"
+      ]
+    },
+    {
+      "name": "Godhand",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 3,
+      "MRes": 0,
+      "Spd": 1,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 5,
+      "element": "Holy",
+      "special_effects": "none",
+      "abilities": [
+        "Far Fist (A) (MNK|200)"
+      ]
+    },
+    {
+      "name": "Tiger Fangs",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "Lightng",
+      "special_effects": "none",
+      "abilities": [
+        "Earth Render (A) (MNK|200)"
+      ]
+    },
+    {
+      "name": "Death Claws",
+      "WAtt": 43,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "Dark",
+      "special_effects": "none -",
+      "abilities": [
+        "Black Ingot (A) (GDT|200) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Mythril Claws",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "Monk Combo (C) (MNK|100) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Greasebust",
+      "WAtt": 59,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Magic Hands",
+      "WAtt": 52,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Souls": [
+    {
+      "name": "Goblin Soul",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 1,
+      "element": "none",
+      "special_effects": "[half]Ice -",
+      "abilities": [
+        "Goblin (A) (MOR|200) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Flan Soul",
+      "WAtt": 34,
+      "WDef": 10,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[half]Lightning",
+      "abilities": [
+        "Flan (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Bomb Soul",
+      "WAtt": 36,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Fire",
+      "special_effects": "[half]Fire",
+      "abilities": [
+        "Bomb (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Dragon Soul",
+      "WAtt": 43,
+      "WDef": 5,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[absb]Earth",
+      "abilities": [
+        "Dragon (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Lamia Soul",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Water",
+      "special_effects": "[null]Sleep",
+      "abilities": [
+        "Lamia (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Bug Soul",
+      "WAtt": 39,
+      "WDef": 2,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Earth",
+      "special_effects": "[null]Dark",
+      "abilities": [
+        "Bug (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Panther Soul",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 2,
+      "element": "none",
+      "special_effects": "[null]Berserk -",
+      "abilities": [
+        "Panther (A) (MOR|200) -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Malboro Soul",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 2,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "[null]Poison",
+      "abilities": [
+        "Malboro (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Eye Soul",
+      "WAtt": 45,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "Dark",
+      "special_effects": "[null]Doom",
+      "abilities": [
+        "Floateye (A) (MOR|200)"
+      ]
+    },
+    {
+      "name": "Mythril Soul",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none",
+      "abilities": [
+        "Morph Combo (C) (MOR|100)"
+      ]
+    },
+    {
+      "name": "Dread Soul",
+      "WAtt": 49,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Rukavi Soul",
+      "WAtt": 67,
+      "WDef": 0,
+      "MPow": 2,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "none -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ],
+  "Guns": [
+    {
+      "name": "Aiot Gun",
+      "WAtt": 27,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Fireshot (A) (GUN|100)"
+      ]
+    },
+    {
+      "name": "Silver Cannon",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 7",
+      "abilities": [
+        "Blindshot (A) (GUN|100)"
+      ]
+    },
+    {
+      "name": "Riot Gun",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Boltshot (A) (GUN|100)"
+      ]
+    },
+    {
+      "name": "Chaos Rifle",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Confushot (A) (GUN|200)"
+      ]
+    },
+    {
+      "name": "Lost Gun",
+      "WAtt": 31,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Silenshot (A) (GUN|200)"
+      ]
+    },
+    {
+      "name": "Peacemaker",
+      "WAtt": 33,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Charmshot (A) (GUN|300)"
+      ]
+    },
+    {
+      "name": "Giot Gun",
+      "WAtt": 37,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Iceshot (A) (GUN|100)"
+      ]
+    },
+    {
+      "name": "Longbarrel",
+      "WAtt": 39,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Concentrate (S) (GUN|300)"
+      ]
+    },
+    {
+      "name": "Outsider",
+      "WAtt": 41,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 9",
+      "abilities": [
+        "Stopshot (A) (GUN|300)"
+      ]
+    },
+    {
+      "name": "Mythril Gun",
+      "WAtt": 32,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 1,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8",
+      "abilities": [
+        "Gun Combo (C) (GUN|100)"
+      ]
+    },
+    {
+      "name": "Blindsnipe",
+      "WAtt": 47,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8 -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    },
+    {
+      "name": "Calling Gun",
+      "WAtt": 59,
+      "WDef": 0,
+      "MPow": 0,
+      "MRes": 0,
+      "Spd": 0,
+      "Mov": 0,
+      "Jmp": 0,
+      "Evd": 0,
+      "element": "none",
+      "special_effects": "Range: 8 -",
+      "abilities": [
+        "none -NOT VERIFIED-"
+      ]
+    }
+  ]
+}

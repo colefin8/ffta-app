@@ -1,0 +1,1554 @@
+-----------------------------------------------------------------------------
+                            4. Equipment List
+-----------------------------------------------------------------------------
+
+Now on to the equipment list, I'll start with headwear, and more specificly
+start with Helmets. I'll list under each kind of equipment, which jobs can
+equip them.
+
+ ------------
+| I.HEADWEAR |
+ ------------
+
+i. Helmets
+-----------
+Jobs that can equip:Soldier, Paladin, Warrior, Dragoon, Defender,
+                    Templar, Mog Knight
+
+   Name:Bronze Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:0
+ MagRES:2
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Helm of copper and leather.
+ Effect:None
+
+   Name:Iron Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:5
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Heavy, but very sturdy iron helmet.
+ Effect:None
+
+   Name:Opal Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:7
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Formal helm worn in ceremonies.
+ Effect:None
+
+   Name:Cross Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:9
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This helmet is made to cover the whole face.
+ Effect:None
+
+   Name:Diamond Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:11
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This helmet is pricey but very reliable.
+ Effect:None
+
+   Name:Parade Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:13
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Helm with a large crimson plume. Used in ceremonies.
+ Effect:None
+
+   Name:Hanya Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:12
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Frightful helm in the shape of a demon.
+ Effect:
+
+   Name:Bangaa Helm
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:16
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Strong and sturdy helmet used by bangaa.
+ Effect:None
+
+ii. Ribbons
+-----------
+Jobs that can equip:Fencer, Elementalist, Red Mage, White Mage [viera],
+                    Summoner, Archer [Viera], Assassain, Sniper
+
+   Name:Cachusha
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Words of blessing adorn this red women's ornament.
+ Effect:[Null]KO/Petrify/Confuse/Berserk/Stop/Charm/Sleep
+
+   Name:Barette
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Women's hairpin adorned with good luck stones.
+ Effect:[Null]Zombie/Dark/Silence/Frog/Poison/Slow/Immobilize/Disable/Doom
+
+   Name:Ribbon
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This women's ribbon wards off all ailment.
+ Effect:[Null]all status ailments
+
+iii. Hats
+---------
+Jobs that can equip:Soldier, Fighter, Thief [All], Ninja,
+                    White Mage [All], Black Mage[All], Illusionist [All]
+                    Blue Mage, Archer [All], Hunter, Warrior,
+                    Gladiator, Bishop, Templar, Time Mage [All],
+                    Alchemist, Beastmaster, Morpher, Sage, Fencer,
+                    Elementalist, Red Mage, Summoner, Assassain, Sniper,
+                    Animist, Gunner, Juggler, Gadgeteer
+
+   Name:Feather Cap
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Sturdy cap with a long feather.
+ Effect:None
+
+   Name:Circlet
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Ornament meant to protect wearer from harmful magic.
+ Effect:None
+
+   Name:Green Baret
+Element:None
+Ability:(Archer [All], Block Arrows [Reaction], 300)
+        (Animist, Block Arrows [Reaction], 300)
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:2
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:2
+   Desc:This hat is given to those with a special mission.
+ Effect:None
+
+   Name:Headband
+Element:None
+Ability:None
+ WpnATK:5
+ WpnDEF:6
+ MagPOW:0
+ MagRES:2
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This headband serves to focus the spirit.
+ Effect:None
+
+   Name:Wizard Hat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:1
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This pointed cap is a classic wizard's hat.
+ Effect:None
+
+   Name:Gold Hairpin
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:2
+ MagRES:12
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Hairpin with fine gold-work. Made by a sorceress.
+ Effect:[Null]Silence
+
+   Name:Thief Hat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:8
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:7
+   Desc:Hat said to have belonged to a notorious thief.
+ Effect:[Null]Immobilize/Disable
+
+   Name:Black Hat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:4
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Black pointy hat made of magical thread.
+ Effect:None
+
+   Name:White Hat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:0
+ MagRES:14
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:White hat with furry ears. Made of magical thread.
+ Effect:None
+
+   Name:Acacia Hat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:5
+ MagRES:2
+  Speed:2
+   Move:1
+   Jump:1
+  Evade:5
+   Desc:Odd, light yellow hat that grows with its wearer.
+ Effect:None
+
+   Name:Tiara
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:8
+ MagPOW:0
+ MagRES:20
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Gift Tiara given to the most beautiful women.
+ Effect:None
+  Other:Unlike other hats this hat can only be equipped by viera classes.
+
+ ------------
+|  II.Armor  |
+ ------------
+
+i. Armor
+---------
+Jobs that can equip:Soldier, Paladin, Warrior, Dragoon, Defender, Templar
+                    Mog Knight
+
+   Name:Cuirass
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:2
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Chestplate made of tightly woven fibers.
+ Effect:None
+
+   Name:Bronze Armor
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:30
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Armor made of intertwined copper plates.
+ Effect:None
+
+   Name:Iron Armor
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:34
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Heavy armor with steel on the chest.
+ Effect:None
+
+   Name:Gold Armor
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:42
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Expensive armor plated in gold.
+ Effect:None
+
+   Name:Diamond Armor
+Element:None
+Ability:(Paladin, Weapon Def+ [Support], 300)
+        (Defender, Weapon Def+ [Support], 300)
+ WpnATK:0
+ WpnDEF:40
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This armor is set with sparkling diamonds.
+ Effect:None
+
+   Name:Opal Armor
+Element:None
+Ability:(Mog Knight, Last Haste [Reaction], 300)
+ WpnATK:0
+ WpnDEF:42
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Beautiful armor with exquisite curves.
+ Effect:None
+
+   Name:Carabini Mail
+Element:None
+Ability:(Templar, Bonecrusher [Reaction], 300)
+ WpnATK:0
+ WpnDEF:38
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Light armor made of iron fused with mythril.
+ Effect:None
+
+   Name:Mirror Mail
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:36
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Lighter armor imbued with a magical reflection aura.
+ Effect:Auto-Reflect
+
+   Name:Dragon Mail
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:40
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Armor made of metal fused with dragon scales.
+ Effect:[Half]Fire
+
+   Name:Genji Armor
+Element:None
+Ability:(Paladin, Reflex [Reaction], 300)
+ WpnATK:0
+ WpnDEF:46
+ MagPOW:0
+ MagRES:12
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:One-of-a-kind armor from a foreign land.
+ Effect:None
+
+   Name:Maximillian
+Element:None
+Ability:None
+ WpnATK:3
+ WpnDEF:46
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This armor bears the crest of "The Last Knight."
+ Effect:None
+
+   Name:Adaman Armor
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:58
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Armor of beautifully tempered green adamantite.
+ Effect:None
+
+   Name:Materia Armor
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:52
+ MagPOW:0
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Extremely hard armor made of materite.
+ Effect:None
+
+   Name:Peytral
+Element:None
+Ability:None
+ WpnATK:5
+ WpnDEF:29
+ MagPOW:5
+ MagRES:2
+  Speed:2
+   Move:1
+   Jump:1
+  Evade:5
+   Desc:Heavy, but sturdy armor. Made for war chocobo use.
+ Effect:None
+
+
+ii. Clothing
+------------
+Jobs that can equip:Soldier, Fighter, Thief [All], Ninja,
+                    White Mage [All], Black Mage [All], Illusionist [All] 
+                    Blue Mage Archer [All], Hunter, Warrior, Gladiator,
+                    White Monk, Bishop, Templar, Time Mage [All],
+                    Alchemist, Beastmaster, Morpher, Sage, Fencer,
+                    Elementalist, Red Mage, Summoner, Assassain, Sniper,
+                    Animist, Gunner, Juggler, Gadgeteer
+
+   Name:Leather Garb
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:18
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Sturdy clothing made of layered leather.
+ Effect:None
+
+   Name:Chain Plate
+Element:None
+Ability:(Red Mage, Catch [Reaction], 300)
+        (Juggler, Catch [Reaction], 300)
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Shirt of linked iron rings
+ Effect:None
+
+   Name:Adaman Vest
+Element:None
+Ability:(Thief [All], Maintenance [Support], 300)
+        (Alchemist, Maintenance [Support], 300)
+ WpnATK:0
+ WpnDEF:30
+ MagPOW:0
+ MagRES:3
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Shirt woven of adamantite alloy.
+ Effect:None
+
+   Name:Survival Vest
+Element:None
+Ability:(Blue Mage, Immunity [Support], 300)
+        (Beastmaster, Immunity [Support], 300)
+ WpnATK:0
+ WpnDEF:34
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Light cotton wear for absorbing shocks.
+ Effect:None
+
+   Name:Brigandine
+Element:None
+Ability:(Thief [All], Counter [Reaction], 300)
+        (White Monk, Counter [Reaction], 300)
+ WpnATK:0
+ WpnDEF:37
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Clothes made so the metal strips won't rub together.
+ Effect:None
+
+   Name:Judo Uniform
+Element:None
+Ability:(Blue Mage, Damage > MP [Reaction], 300)
+        (Morpher, Damage > MP [Reaction], 300)
+        (Gadgeteer, Damage > MP [Reaction], 300)
+ WpnATK:0
+ WpnDEF:34
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Fighting clothes perferred by monks.
+ Effect:[Null]Doom
+
+   Name:Power Sash
+Element:None
+Ability:(Assassain, Return Fire [Reaction], 300)
+        (Juggler, Return Fire [Reaction], 300)
+ WpnATK:2
+ WpnDEF:34
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Twisted rope used for tying back loose clothing.
+ Effect:None
+
+   Name:Gaia Gear
+Element:Earth
+Ability:(Hunter, Auto-Regen [Reaction], 300)
+        (Sniper, Auto-Regen [Reaction], 300)
+        (Gadgeteer, Auto-Regen [Reaction], 300)
+ WpnATK:0
+ WpnDEF:24
+ MagPOW:0
+ MagRES:12
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:These blue clothes have been blessed by the earth.
+ Effect:[Absb]Earth
+
+   Name:Ninja Gear
+Element:None
+Ability:(Ninja, Last Haste [Reaction], 300)
+        (Beastmaster, Last Haste [Reaction], 300)
+        (Fighter, Bonecrusher [Reaction], 300)
+ WpnATK:0
+ WpnDEF:30
+ MagPOW:0
+ MagRES:6
+  Speed:1
+   Move:0
+   Jump:0
+  Evade:2
+   Desc:Ninja clothes made using special secret techniques.
+ Effect:None
+
+   Name:Dark Gear
+Element:None
+Ability:(Sage, Weapon Def+ [Support], 300)
+ WpnATK:0
+ WpnDEF:32
+ MagPOW:0
+ MagRES:3
+  Speed:2
+   Move:0
+   Jump:0
+  Evade:1
+   Desc:Black clothes used for night operations.
+ Effect:[Null]Stop
+
+   Name:Wygar
+Element:None
+Ability:(Fighter, Strikeback [Reaction], 300)
+        (Gladiator, Strikeback [Reaction], 300)
+ WpnATK:0
+ WpnDEF:35
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Clothes worn by an ancient hero king.
+ Effect:[Null]KO
+
+   Name:Mirage Vest
+Element:Holy
+Ability:(White Monk, Reflex [Reaction], 300)
+        (Sage, Reflex [Reaction], 300)
+        (Fencer, Reflex [Reaction], 300)
+ WpnATK:0
+ WpnDEF:32
+ MagPOW:0
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:These clothes shimmer mystically in the light.
+ Effect:None
+
+   Name:Bone Plate
+Element:Dark
+Ability:None
+ WpnATK:0
+ WpnDEF:42
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Clothing made of connected monster bones.
+ Effect:[Absb]Dark
+
+   Name:Onlyone
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:34
+ MagPOW:0
+ MagRES:24
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Sturdy tunic. The only clothes you'll ever need.
+ Effect:None
+
+   Name:Brint Set
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:The latest from famed designer "Brint."
+ Effect:None
+
+   Name:Galmia Set
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:26
+ MagPOW:0
+ MagRES:18
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Galmia's latest creation. Uses lavish chocobo hides.
+ Effect:None
+
+   Name:Judge Coat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:38
+ MagPOW:0
+ MagRES:28
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Every kid in Ivalice wants one of these judge coats.
+ Effect:None
+
+   Name:Temple Cloth
+Element:None
+Ability:None
+ WpnATK:2
+ WpnDEF:36
+ MagPOW:2
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Uniform of a long-gone order of knights.
+ Effect:None
+
+iii.Women-only Clothing
+------------------------
+Still classified as clothing
+Jobs that can equip:Fencer, Elementalist, Red Mage, White Mage [viera],
+                    Summoner, Archer [Viera], Assassain, Sniper
+
+   Name:Minerva Plate
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:14
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Women's clothes worn by the goddess of victory.
+ Effect:[Null]Dark
+
+   Name:Rubber Suit
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:16
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Women's insulated clothing.
+ Effect:[Null]Lightning
+
+iv.Robes
+---------
+Jobs that can equip:Paladin, White Mage [All], Black Mage [All], Illusionist 
+                    [All], Blue Mage, Defender,
+                    Bishop, Templar, Time Mage [All], Morpher, Sage, 
+                    Elementalist, Red Mage, Summoner
+
+   Name:Hempen Robe
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:15
+ MagPOW:0
+ MagRES:22
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Simple, hempen robe.
+ Effect:None
+
+   Name:Silken Robe
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:15
+ MagPOW:0
+ MagRES:28
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Smooth robe made of the finest silk.
+ Effect:None
+
+   Name:Magus Robe
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:15
+ MagPOW:0
+ MagRES:30
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Hooded robe favored by mages.
+ Effect:None
+
+   Name:Mistle Robe
+Element:Holy
+Ability:None
+ WpnATK:0
+ WpnDEF:19
+ MagPOW:0
+ MagRES:30
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Good-luck robe dyed with mistletoe juice.
+ Effect:[Absb]Holy [Null]KO
+
+   Name:Blaze Robe
+Element:Fire
+Ability:None
+ WpnATK:0
+ WpnDEF:19
+ MagPOW:0
+ MagRES:30
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This robe would not burn in the middle of a fire.
+ Effect:[Absb]Fire
+
+   Name:Thunder Robe
+Element:Lightning
+Ability:None
+ WpnATK:0
+ WpnDEF:19
+ MagPOW:0
+ MagRES:30
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This robe turn lightning into power for its wearer.
+ Effect:[Absb]Lightning
+
+   Name:Flurry Robe
+Element:Ice
+Ability:None
+ WpnATK:0
+ WpnDEF:19
+ MagPOW:0
+ MagRES:30
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Robe woven with a slow flurry.
+ Effect:[Absb]Ice
+
+   Name:White Robe
+Element:None
+Ability:(White Mage [All], Turbo MP [Support], 300)
+ WpnATK:0
+ WpnDEF:21
+ MagPOW:0
+ MagRES:38
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Pure white robe that protects from black magic.
+ Effect:[Half]Fire/Lightning/Ice
+
+   Name:Black Robe
+Element:None
+Ability:(Black Mage [All], Return Magic [Reaction], 300)
+        (Bishop, Return Magic [Reaction], 300)
+ WpnATK:0
+ WpnDEF:21
+ MagPOW:2
+ MagRES:36
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Lacquer-hued robe that strengthens black magic.
+ Effect:[Enhn]Fire/Lightning/Ice
+
+   Name:Light Robe
+Element:None
+Ability:(Bishop, Half MP [Support], 300)
+        (Summoner, Half MP [Support], 300)
+        (Illusionist [All], Half MP [Support], 300)
+ WpnATK:0
+ WpnDEF:25
+ MagPOW:0
+ MagRES:40
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This beautiful robe prevents exhaustion.
+ Effect:None
+
+   Name:Lordly Robe
+Element:None
+Ability:(Elementalist, Absorb MP [Reaction], 300)
+        (Illusionist [All], Absorb MP [Reaction], 300)
+        (Time Mage [All], Last Quicken [Reaction], 300)
+ WpnATK:0
+ WpnDEF:28
+ MagPOW:0
+ MagRES:42
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Robes worn by all the leaders of old.
+ Effect:None
+
+   Name:Silver Coat
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:30
+ MagPOW:0
+ MagRES:38
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:This coat has a mystical silvery shimmer.
+ Effect:None
+
+   Name:Red Robe
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:22
+ MagPOW:0
+ MagRES:31
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Stylish robe made for red mages.
+ Effect:None
+
+   Name:Sage Robe
+Element:None
+Ability:(Black Mage [All], Geomancy [Support], 300)
+ WpnATK:0
+ WpnDEF:24
+ MagPOW:0
+ MagRES:52
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Soft Cloth robe given to accomplished sages.
+ Effect:None
+
+   Name:Magic Robe
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:24
+ MagPOW:6
+ MagRES:36
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Sky-colored robe only worn by the honest and humble.
+ Effect:
+
+   Name:Reaper Cloak
+Element:Dark
+Ability:None
+ WpnATK:0
+ WpnDEF:32
+ MagPOW:0
+ MagRES:36
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Robe stained black with blood.
+ Effect:None
+
+ ------------
+|III. Shields |
+ ------------
+Jobs that can equip:Soldier, Paladin, Warrior, Sage, Fencer, Mog Knight
+
+   Name:Bronze Shield
+Element:None
+Ability:(Soldier, Shieldbearer [Support], 300)
+        (Warrior, Shieldbearer [Support], 300)
+        (Fencer, Shieldbearer [Support], 300)
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:2
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:4
+   Desc:Simple shield of worked copper.
+ Effect:None
+
+   Name:Round Shield
+Element:None
+Ability:(Sage, Shieldbearer [Support], 300)
+        (Fencer, Shieldbearer [Support], 300)
+        (Mog Knight, Shieldbearer [Support], 300)
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:4
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:5
+   Desc:Attacks seem to slide off this rounded shield.
+ Effect:None
+
+   Name:Opal Shield
+Element:None
+Ability:(Soldier, Shieldbearer [Support], 300)
+        (Warrior, Shieldbearer [Support], 300)
+        (Mog Knight, Shieldbearer [Support], 300)
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:7
+   Desc:Opal Shield with a brilliant white luster.
+ Effect:None
+
+   Name:Ice Shield
+Element:Ice
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:9
+   Desc:This magic shield gives off a thin, cold aura.
+ Effect:[Weak]Lightning [Absb]Ice [Half]Fire
+
+   Name:Flame Shield
+Element:Fire
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:9
+   Desc:Magical symbols of fire cover this shield.
+ Effect:[Weak]Water [Absb]Fire [Half]Ice
+
+   Name:Aegis Shield
+Element:Holy
+Ability:None
+ WpnATK:0
+ WpnDEF:5
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:10
+   Desc:Holy shield once used against a horrible foe
+ Effect:[Null]Petrify
+
+   Name:Genji Shield
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:10
+ MagPOW:0
+ MagRES:7
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:10
+   Desc:Shield from a foreign land. Part of a set.
+ Effect:None
+
+   Name:Sacri Shield
+Element:Holy
+Ability:None
+ WpnATK:0
+ WpnDEF:5
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:10
+   Desc:Shield borne by the knights of heaven.
+ Effect:[Null]Zombie/Dark/Silence/Frog/Poison/Slow/Immobilize/Disable/Doom
+
+   Name:Shijin Shield
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:7
+   Desc:Mythril shield dedicated to the four shijin gods.
+ Effect:None
+
+   Name:Choco Shield
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:10
+   Desc:Feathered shield made of tanned chocobo hide.
+ Effect:None
+
+   Name:La Seraphica
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:15
+   Desc:This shield of good luck was a gift from the gods.
+ Effect:None
+
+   Name:Reverie Shield
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:5
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:10
+   Desc:Shield that changes color depending on its angle.
+ Effect:None
+
+ ---------------
+|V. Accessories |
+ ---------------
+All accessories can be worn by all classes
+
+i.Shoes
+--------
+
+   Name:Battle Shoes
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:7
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Hard leather boots.
+ Effect:None
+
+   Name:Spiked Boots
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:1
+  Evade:0
+   Desc:Spiked shoes for better jumping.
+ Effect:None
+
+   Name:Dash Shoes
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:1
+   Jump:0
+  Evade:0
+   Desc:Speedy shoes for faster movement.
+ Effect:None
+
+   Name:Red Shoes
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:2
+   Desc:Red shoes dyed with medicinal herbs.
+ Effect:None
+
+   Name:Feather Boots
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Feather boots. Their wearer can walk on water.
+ Effect:Waterwalking
+
+   Name:Germinas
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:2
+  Evade:0
+   Desc:Sturdy boots for climbing. Greatly improves jumps.
+ Effect:None
+
+   Name:Caligula
+Element:None
+Ability:None
+ WpnATK:3
+ WpnDEF:10
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Boots worn by royal guards in the age of kings.
+ Effect:None
+
+ii.Armlets
+----------
+
+   Name:Gauntlets
+Element:None
+Ability:None
+ WpnATK:5
+ WpnDEF:5
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Gloves that stretch form elbow to finger.
+ Effect:None
+
+   Name:Thief Armlets
+Element:None
+Ability:None
+ WpnATK:3
+ WpnDEF:3
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Armlets made to allow maximum finger movement.
+ Effect:Improves chance to steal.
+
+   Name:Bracers
+Element:None
+Ability:None
+ WpnATK:5
+ WpnDEF:12
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Leather bracers made so as not to hinder the hands.
+ Effect:None
+
+   Name:Genji Armlets
+Element:None
+Ability:None
+ WpnATK:5
+ WpnDEF:10
+ MagPOW:2
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:These colorful armlets are beautifully adorned.
+ Effect:None
+
+   Name:Fire Mitts
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:8
+ MagPOW:0
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Specially fire-proofed gloves. Good pot holders.
+ Effect:[Null]Fire
+
+   Name:Bone Armlets
+Element:None
+Ability:None
+ WpnATK:3
+ WpnDEF:6
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:5
+   Desc:Armlets made of animal bone to ward off attacks.
+ Effect:None
+
+iii.Accessories
+---------------
+
+   Name:Fortune Ring
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:5
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Ring set with a stone of power.
+ Effect:[Null]Sleep/Doom
+
+   Name:Magic Ring
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:3
+ MagRES:10
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Ring engraved with magic-enhancing symbols.
+ Effect:None
+
+   Name:Angel Ring
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:0
+ MagPOW:0
+ MagRES:0
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Ring of blessing said to have been made by angels.
+ Effect:[Null]Zombie/Dark/Silence/Frog/Poison/Slow/Immobilize/Disarm/Doom
+        Auto-Raise
+
+   Name:Scarab
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:2
+ MagPOW:0
+ MagRES:8
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Scarab brooch that glitters like a rainbow.
+ Effect:[Null]Immobilize/Disarm/Frog
+
+   Name:Ruby Earring
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:3
+ MagPOW:0
+ MagRES:6
+  Speed:0
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Earrings with tear-shaped rubies.
+ Effect:[Null]Confuse/Charm [Half]Dark
+
+   Name:Star Armlet
+Element:None
+Ability:None
+ WpnATK:0
+ WpnDEF:4
+ MagPOW:6
+ MagRES:4
+  Speed:2
+   Move:0
+   Jump:0
+  Evade:0
+   Desc:Armband worn by a great diviner of old.
+ Effect:[Null]Stop/Slow

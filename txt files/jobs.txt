@@ -1,0 +1,88 @@
+~~~~~~~~~~
+3.1 Humans
+~~~~~~~~~~
+Humans are the most well rounded race in the game, with access to eleven different
+jobs. In battle they can call upon the Totema Mateus to deliver a great amount
+of damage to all enemies.
+
+Soldier     -Auto
+Paladin     -2 Soldier Action-abilities
+Fighter     -2 Soldier Action-abilities
+Thief       -Auto
+Ninja       -2 Thief Action-abilities
+White Mage  -Auto
+Black Mage  -Auto
+Illusionist -3 White Mage and 5 Black Mage Action-abilities
+Blue Mage   -1 White Mage and 1 Black Mage Action-ability
+Archer      -Auto
+Hunter      -2 Archer Action-abilities
+
+~~~~~~~~~~
+3.2 Bangaa
+~~~~~~~~~~
+Bangaa have a small variety of jobs, the smallest in the game with only seven
+choices. Bangaa are essentially a fighting race with a high attack making them
+more sutied to attacking although there are magic using jobs for them too. Though
+they have a small variety of jobs they are all specific to the Bangaa race. Their
+lack of speed is made up for in their attack and defence. In battle they call
+upon the Totema Adrammalech dealing massive amounts of damage to all enemies.
+
+Warrior    -Auto
+Dragoon    -2 Warrior Action-abilities
+Defender   -2 Warrior Action-abilities
+Gladiator  -2 Warrior Action-abilities
+White Monk -Auto
+Bishop     -2 White Monk Action-abilities
+Templar    -2 White Monk Action-abilities
+
+~~~~~~~~~~
+3.3 Nu Mou
+~~~~~~~~~~
+On a first look at this race they seem docile and fragile but their access to
+great supernatural powers makes them the best race for Magic based jobs, which
+do in fact make up the majority of their eight jobs. In battle they call upon
+the Totema Ultima to deal MP damage to all enemies.
+
+White Mage    -Auto
+Black Mage    -Auto
+Illusionist   -3 White Mage and 5 Black Mage Action-abilities
+Time Mage     -5 Black Mage Action-abilities
+Alchemist     -2 White Mage and 5 Black Mage Action-abilities
+Beastmaster   -Auto
+Morpher       -5 Beastmaster Action-abilities
+Sage          -3 White Mage and 2 Beastmaster Action-abilties
+
+~~~~~~~~~
+3.4 Viera
+~~~~~~~~~
+An all female race commonly referred to as the 'Bunny Girls' or variations on that.
+With superior speed and a range of jobs that have wide attack ranges this race
+could make up your whole clan. In battle they call upon the Totema Exodus to deal MP
+damage to all enemies.
+
+White Mage   -Auto
+Fencer       -Auto
+Elementalist -1 White Mage and 1 Fencer Action-ability
+Red Mage     -1 Fencer Action-ability
+Summoner     -2 White Mage and 2 Elementalist Action-abilties
+Archer       -Auto
+Assassin     -2 Elementalist and 1 Sniper Action-abilites
+Sniper       -2 Archer Action-abilities
+
+~~~~~~~~~~~
+3.5 Moogles
+~~~~~~~~~~~
+A race that looks like a cross between a bat and a stuffed animal they're all
+very cute looking but that is just a front. They end every sentence with the word
+KUPO. They're eight job classes are made up of magical classes and classes with
+a wide attack range. In battle they call upon the Totema Famfrit to deal piles
+of damage to all enemies.
+
+Black Mage   -Auto
+Time Mage    -5 Black Mage Action-abilities
+Animist      -Auto
+Mog Knight   -1 Animist Action-ability
+Gunner       -1 Animist Action-ability
+Thief        -Auto
+Juggler      -2 Thief Action-abilities
+Gadgeteer    -2 Thief Action-abilities

@@ -1,0 +1,2910 @@
+{
+  "soldier": {
+    "available_to": "Humans only",
+    "requirements": "None",
+    "abilities": {
+      "Battle Tech": [
+        {
+          "name": "First Aid",
+          "item_required": "Shortsword",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Cure HP and status"
+        },
+        {
+          "name": "Powerbreak",
+          "item_required": "Barong",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's weapon attack"
+        },
+        {
+          "name": "Mindbreak",
+          "item_required": "Buster Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's magic"
+        },
+        {
+          "name": "Magicbreak",
+          "item_required": "Ancient Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Speedbreak",
+          "item_required": "Silver Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's speed"
+        },
+        {
+          "name": "Mug",
+          "item_required": "Diamond Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Damages target and steals carried gil"
+        },
+        {
+          "name": "Provoke",
+          "item_required": "Blood Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cause Berserk status"
+        },
+        {
+          "name": "Sensor",
+          "item_required": "Burglar Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Find hidden equipment on enemy"
+        },
+        {
+          "name": "Monkey Grip",
+          "item_required": "Vigilante",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Hold two-handed weapon with one hand"
+        },
+        {
+          "name": "Shieldbearer",
+          "item_required": "Bronze Shield",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Equip a shield no matter what job"
+        },
+        {
+          "name": "Combat Combo",
+          "item_required": "Mythril Sword",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": "Shieldbearer can also be learned from the Opal Shield."
+  },
+  "paladin": {
+    "available_to": "Humans only",
+    "requirements": "2 Soldier A-abilities",
+    "abilities": {
+      "Chivalry": [
+        {
+          "name": "Nurse",
+          "item_required": "Defender",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Cure HP and status"
+        },
+        {
+          "name": "Defense",
+          "item_required": "Lionheart",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raise Defence and Resistance"
+        },
+        {
+          "name": "Cover",
+          "item_required": "SaveTheQueen",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Take damage for a clan member"
+        },
+        {
+          "name": "Subdue",
+          "item_required": "Ancient Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Low damage attack"
+        },
+        {
+          "name": "Drop Weapon",
+          "item_required": "Ragnarok",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Disarm target"
+        },
+        {
+          "name": "Parley",
+          "item_required": "Barong",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Remove weakened monsters from battle"
+        },
+        {
+          "name": "Saint Cross",
+          "item_required": "Arch Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Holy damage in a cross-shaped area"
+        },
+        {
+          "name": "Holy Blade",
+          "item_required": "Excalibur",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Heavy holy damage"
+        },
+        {
+          "name": "Reflex",
+          "item_required": "Genji Armor",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Completely dodge attacks"
+        },
+        {
+          "name": "Weapon Def+",
+          "item_required": "Diamond Armor",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises Weapon Defence"
+        },
+        {
+          "name": "Knight Combo",
+          "item_required": "Mythril Brand",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "fighter": {
+    "available_to": "Humans only",
+    "requirements": "2 Soldier A-abilities",
+    "abilities": {
+      "Fighter Tech": [
+        {
+          "name": "Rush",
+          "item_required": "Sweep Blade",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Damage and push back target"
+        },
+        {
+          "name": "Wild Swing",
+          "item_required": "Ogun Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Damage all adjacent units"
+        },
+        {
+          "name": "Beatdown",
+          "item_required": "Shadow Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double damage, halved accuracy"
+        },
+        {
+          "name": "Blitz",
+          "item_required": "Sun Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double accuracy,halved damage"
+        },
+        {
+          "name": "Air Render",
+          "item_required": "Atmos Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged attack"
+        },
+        {
+          "name": "Far Fist",
+          "item_required": "Kwigon Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged area damage attack"
+        },
+        {
+          "name": "Air Blast",
+          "item_required": "Air Blade",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Wind area damage"
+        },
+        {
+          "name": "Backdraft",
+          "item_required": "Flametongue",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Fire area damage, causes self damage"
+        },
+        {
+          "name": "Bonecrusher",
+          "item_required": "Ninja Gear",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Counter with 1.5 times damage"
+        },
+        {
+          "name": "Strikeback",
+          "item_required": "Wygar",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Block attack and counter"
+        },
+        {
+          "name": "Doublehand",
+          "item_required": "Venus Blade",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Hold sword with two hands"
+        },
+        {
+          "name": "Fight Combo",
+          "item_required": "Mythril Blade",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "thief": {
+    "available_to": "Humans and Moogles",
+    "requirements": "None",
+    "abilities": {
+      "Steal": [
+        {
+          "name": "Steal:Armor",
+          "item_required": "Rondell Dagger",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Steal enemy's armor"
+        },
+        {
+          "name": "Steal:Shield",
+          "item_required": "Scramasax",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Steal enemy's shield"
+        },
+        {
+          "name": "Steal:Access",
+          "item_required": "Jambiya",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Steal enemy's accessory"
+        },
+        {
+          "name": "Steal:Helm",
+          "item_required": "Kard",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Steal enemy's helmet"
+        },
+        {
+          "name": "Steal:Weapon",
+          "item_required": "Sword Breaker",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Steal enemy's weapon"
+        },
+        {
+          "name": "Steal:Gil",
+          "item_required": "Jack Knife",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Steal Gil from an enemy"
+        },
+        {
+          "name": "Steal:EXP",
+          "item_required": "Khukuri",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Steal EXP from an enemy"
+        },
+        {
+          "name": "Steal:JP",
+          "item_required": "Orichalcum",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Steal JP from an enemy"
+        },
+        {
+          "name": "Steal:Ability",
+          "item_required": "Cinquedea",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Steal an ability from an enemy"
+        },
+        {
+          "name": "Counter",
+          "item_required": "Brigandine",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Counter an enemy's attack"
+        },
+        {
+          "name": "Maintenance",
+          "item_required": "Adaman Vest",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Prevent equipment from being stolen/broken"
+        },
+        {
+          "name": "Thief Combo",
+          "item_required": "Mythril Knife",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "ninja": {
+    "available_to": "Humans only",
+    "requirements": "2 Thief A-abilities",
+    "abilities": {
+      "Ninja Skill": [
+        {
+          "name": "Throw",
+          "item_required": "Ninja Knife",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Throw an item from your inventory"
+        },
+        {
+          "name": "Wood Veil",
+          "item_required": "Kotetsu",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Damage and immobilise"
+        },
+        {
+          "name": "Fire Veil",
+          "item_required": "Ashura",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Fire damage and confuse"
+        },
+        {
+          "name": "Earth Veil",
+          "item_required": "Osafune",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Earth damage and Slow"
+        },
+        {
+          "name": "Metal Veil",
+          "item_required": "Kikuichimonji",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Damage and Darkness"
+        },
+        {
+          "name": "Water Veil",
+          "item_required": "Murasame",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Water damage and Silence"
+        },
+        {
+          "name": "Unspell",
+          "item_required": "Heaven's Cloud",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Nullify Magic effect"
+        },
+        {
+          "name": "Oblivion",
+          "item_required": "Masamune",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Inflict Addle status ailment"
+        },
+        {
+          "name": "Last Haste",
+          "item_required": "Ninja Gear",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Haste status when critical"
+        },
+        {
+          "name": "Double Sword",
+          "item_required": "Nosada",
+          "ap_cost": 999,
+          "type": "Support",
+          "description": "Equip a weapon in each hand"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "white mage": {
+    "available_to": "Humans, Nu Mou and Viera",
+    "requirements": "None",
+    "abilities": {
+      "White Magic": [
+        {
+          "name": "Cure",
+          "item_required": "White Staff",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Recover a little HP"
+        },
+        {
+          "name": "Cura",
+          "item_required": "Cure Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Recover some HP"
+        },
+        {
+          "name": "Curaga",
+          "item_required": "Spring Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Recover a lot of HP"
+        },
+        {
+          "name": "Esuna",
+          "item_required": "Pure Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Cure status ailments"
+        },
+        {
+          "name": "Life",
+          "item_required": "Bless Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Revive KO'd unit with half HP"
+        },
+        {
+          "name": "Full-Life",
+          "item_required": "Nirvana Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Revive Ko'd unit with full HP"
+        },
+        {
+          "name": "Auto-Life",
+          "item_required": "Cheer Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Casts Reraise status on target"
+        },
+        {
+          "name": "Shell",
+          "item_required": "Judge Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raises Magic Resistance"
+        },
+        {
+          "name": "Protect",
+          "item_required": "Guard Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raises Weapon Defence"
+        },
+        {
+          "name": "Turbo MP",
+          "item_required": "White Robe",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Use double MP but raise power"
+        },
+        {
+          "name": "White Combo",
+          "item_required": "Mythril Staff",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "illusionist": {
+    "available_to": "Humans and Nu Mou",
+    "requirements": "3 White Mage and 5 Black Mage A-abilities",
+    "abilities": {
+      "Phantasm Skill": [
+        {
+          "name": "Prominence",
+          "item_required": "Firewheel Rod",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Fire damage to all enemies"
+        },
+        {
+          "name": "Tempest",
+          "item_required": "Thunder Rod",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Thunder damage to all enemies"
+        },
+        {
+          "name": "Freezeblink",
+          "item_required": "Sleet Rod",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Ice damage to all enemies"
+        },
+        {
+          "name": "Star Cross",
+          "item_required": "Princess Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Holy damage to all enemies"
+        },
+        {
+          "name": "Stardust",
+          "item_required": "Stardust Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Damage to all enemies"
+        },
+        {
+          "name": "Deluge",
+          "item_required": "Chill Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Water damage to all enemies"
+        },
+        {
+          "name": "Soil Evidence",
+          "item_required": "Terre Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Earth damage to all enemies"
+        },
+        {
+          "name": "Wild Tornado",
+          "item_required": "Thor Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wind damage to all enemies"
+        },
+        {
+          "name": "Absorb MP",
+          "item_required": "Lordly Robe",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Absorb MP used by enemy's attack"
+        },
+        {
+          "name": "Half MP",
+          "item_required": "Light Robe",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Half MP usage when casting Magic"
+        },
+        {
+          "name": "Spell Combo",
+          "item_required": "Mythril Rod",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "blue mage": {
+    "available_to": "Humans only",
+    "requirements": "1 White Mage and 1 Black Mage A-ability",
+    "abilities": {
+      "Blue Magic": [
+        {
+          "name": "Goblin Punch",
+          "monster_source": "Goblin",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Random damage"
+        },
+        {
+          "name": "Magic Hammer",
+          "monster_source": "Red Cap",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Acid",
+          "monster_source": "All Flan",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Inflict a random status ailment"
+        },
+        {
+          "name": "Blowup",
+          "monster_source": "All Bombs",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Sacrifice unit to cause major damage"
+        },
+        {
+          "name": "Mighty Guard",
+          "monster_source": "Icedrake",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Raise Defence and Resistance"
+        },
+        {
+          "name": "Guard-Off",
+          "monster_source": "Firewyrm",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Lower Defence and Resistance"
+        },
+        {
+          "name": "Dragon Force",
+          "monster_source": "Thundrake",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Raise Weapon Attack and Magic"
+        },
+        {
+          "name": "Night",
+          "monster_source": "Lamia",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Cast sleep on all units"
+        },
+        {
+          "name": "Twister",
+          "monster_source": "Lilith",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Half targets' HP"
+        },
+        {
+          "name": "L3 Def Less",
+          "monster_source": "Antlion",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Lower Defence and Resistance lvl/3"
+        },
+        {
+          "name": "Matra Magic",
+          "monster_source": "Blade Biter",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Switch MP and HP levels"
+        },
+        {
+          "name": "Poison Claw",
+          "monster_source": "Red Panther",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Damage and poison"
+        },
+        {
+          "name": "Hastebreak",
+          "monster_source": "Coeurl",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Slow or Stop if hasted"
+        },
+        {
+          "name": "Bad Breath",
+          "monster_source": "Malboro",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Inflict multiple status ailments"
+        },
+        {
+          "name": "Stare",
+          "monster_source": "Floateye",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Inflicts Confuse status ailment from front"
+        },
+        {
+          "name": "Roulette",
+          "monster_source": "Ahriman",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Death on random unit"
+        },
+        {
+          "name": "Drain Touch",
+          "monster_source": "Zombie",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Attack and drain HP"
+        },
+        {
+          "name": "L? Shadow Flare",
+          "monster_source": "Vampire",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Damage if 2nd level digit is the same"
+        },
+        {
+          "name": "White Wind",
+          "monster_source": "Sprite",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Heal HP"
+        },
+        {
+          "name": "Angel Whisper",
+          "monster_source": "Titania",
+          "ap_cost": 0,
+          "type": "Action",
+          "description": "Heal HP and Auto-Life"
+        },
+        {
+          "name": "Damage > MP",
+          "item_required": "Judo Uniform",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "MP damage instead of HP damage"
+        },
+        {
+          "name": "Immunity",
+          "item_required": "Survival Vest",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Immune to Status ailments"
+        },
+        {
+          "name": "Learning",
+          "item_required": "Blue Saber",
+          "ap_cost": 400,
+          "type": "Support",
+          "description": "Learn monsters' abilities"
+        },
+        {
+          "name": "Blue Combo",
+          "item_required": "Mythril Saber",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "archer": {
+    "available_to": "Humans and Viera",
+    "requirements": "None",
+    "abilities": {
+      "Aim": [
+        {
+          "name": "Boost",
+          "item_required": "Longbow",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Raise strength of next attack"
+        },
+        {
+          "name": "Aim:Legs",
+          "item_required": "Thorn Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Immobilise enemy"
+        },
+        {
+          "name": "Aim:Arm",
+          "item_required": "Nail Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Disable enemy's actions"
+        },
+        {
+          "name": "Cupid",
+          "item_required": "Artemis Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Charm status on enemy"
+        },
+        {
+          "name": "Burial",
+          "item_required": "Silver Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Remove Undead from battle"
+        },
+        {
+          "name": "Take Aim",
+          "item_required": "Yoichi Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Never miss attack,halved damage"
+        },
+        {
+          "name": "Faster",
+          "item_required": "Perseus Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack and nullify R-abilities"
+        },
+        {
+          "name": "Blackout",
+          "item_required": "Char Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict darkness status ailment on enemy"
+        },
+        {
+          "name": "Block Arrows",
+          "item_required": "Green Beret",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Block all arrow attacks"
+        },
+        {
+          "name": "Concentrate",
+          "item_required": "Target Bow",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises accuracy of most actions"
+        },
+        {
+          "name": "Bow Combo",
+          "item_required": "Mythril Bow",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "hunter": {
+    "available_to": "Humans only",
+    "requirements": "2 Archer A-abilities",
+    "abilities": {
+      "Hunt": [
+        {
+          "name": "Sonic Boom",
+          "item_required": "Cranequin",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Area Damage"
+        },
+        {
+          "name": "Oust",
+          "item_required": "Windslash Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Remove weakened monster from battle"
+        },
+        {
+          "name": "Advice",
+          "item_required": "Twin Bow",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Raise critical ratio"
+        },
+        {
+          "name": "Aim:Vitals",
+          "item_required": "Fey Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Inflict random status ailment"
+        },
+        {
+          "name": "Hunting",
+          "item_required": "Hunt Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Receive more JP from a KO"
+        },
+        {
+          "name": "Addle",
+          "item_required": "Master Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Addle status ailment"
+        },
+        {
+          "name": "Ultima Shot",
+          "item_required": "Seventh Heaven",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Heavy damage"
+        },
+        {
+          "name": "Sidewinder",
+          "item_required": "Hades Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Heavy damage to monsters"
+        },
+        {
+          "name": "Capture",
+          "item_required": "Ranger Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Capture weakened monster"
+        },
+        {
+          "name": "Auto-Regen",
+          "item_required": "Gaia Gear",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Regen status effect when attacked"
+        },
+        {
+          "name": "Weapon Atk+",
+          "item_required": "Nike Bow",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises weapon attack"
+        },
+        {
+          "name": "Hunt Combo",
+          "item_required": "Mythril Shot",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "warrior": {
+    "available_to": "Bangaa only",
+    "requirements": "None",
+    "abilities": {
+      "Battle Tech": [
+        {
+          "name": "First Aid",
+          "item_required": "Shortsword",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Cure HP and status"
+        },
+        {
+          "name": "Powerbreak",
+          "item_required": "Samson Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's weapon attack"
+        },
+        {
+          "name": "Mindbreak",
+          "item_required": "Buster Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's magic"
+        },
+        {
+          "name": "Magicbreak",
+          "item_required": "Falchion",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Speedbreak",
+          "item_required": "Silver Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lower target's speed"
+        },
+        {
+          "name": "Body Slam",
+          "item_required": "Striborg",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Heavy damage,but recoils"
+        },
+        {
+          "name": "Greased Bolt",
+          "item_required": "Gale Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack and nullify R-abilities"
+        },
+        {
+          "name": "Downsize",
+          "item_required": "Restorer",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Halve target's HP"
+        },
+        {
+          "name": "Monkey Grip",
+          "item_required": "Claymore",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Hold two-handed weapon with one hand"
+        },
+        {
+          "name": "Shieldbearer",
+          "item_required": "Bronze Shield",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Equip a shield no matter what job"
+        },
+        {
+          "name": "Combat Combo",
+          "item_required": "Mythril Sword",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": "Shielbearer can also be learned from the Opal Shield."
+  },
+  "dragoon": {
+    "available_to": "Bangaa only",
+    "requirements": "2 Warrior A-abilities",
+    "abilities": {
+      "Dragon Tech": [
+        {
+          "name": "Lancet",
+          "item_required": "Restorer",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack and drain HP"
+        },
+        {
+          "name": "Wyrmtamer",
+          "item_required": "Buster Sword",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Remove weakened Dragon from battle"
+        },
+        {
+          "name": "Fire Breath",
+          "item_required": "Lava Spear",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Fire damage in a T-area"
+        },
+        {
+          "name": "Bolt Breath",
+          "item_required": "Gae Bolg",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Lightning damage in a T-area"
+        },
+        {
+          "name": "Ice Breath",
+          "item_required": "Ice Lance",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Ice damage in a T-area"
+        },
+        {
+          "name": "Wyrmkiller",
+          "item_required": "Blood Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Heavy damage to Dragons"
+        },
+        {
+          "name": "Bangaa Cry",
+          "item_required": "Dragon Whisker",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Damage in a T-area"
+        },
+        {
+          "name": "Dragonheart",
+          "item_required": "Vitanova",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Reraise status effect when damaged"
+        },
+        {
+          "name": "Dragon Combo",
+          "item_required": "Mythril Spear",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "defender": {
+    "available_to": "Bangaa only",
+    "requirements": "2 Warrior A-abilities",
+    "abilities": {
+      "Defend": [
+        {
+          "name": "Tremor",
+          "item_required": "El Cid Sword",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Damage and knock back surrounding units"
+        },
+        {
+          "name": "Meltdown",
+          "item_required": "Vajra",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Use HP to do damage to surrounding units"
+        },
+        {
+          "name": "Defense",
+          "item_required": "Lionheart",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raise Defense and Resistance"
+        },
+        {
+          "name": "Drop Weapon",
+          "item_required": "Ragnarok",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Make target drop weapon"
+        },
+        {
+          "name": "Hibernate",
+          "item_required": "Defender",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Hibernate and remove all status ailments"
+        },
+        {
+          "name": "Mow Down",
+          "item_required": "Striborg",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Area damage but lowers speed"
+        },
+        {
+          "name": "Aura",
+          "item_required": "Lohengrin",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Casts Reraise and Regen"
+        },
+        {
+          "name": "Expert Guard",
+          "item_required": "SaveTheQueen",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Prevent all damage"
+        },
+        {
+          "name": "Last Berserk",
+          "item_required": "Predator",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Berserk status when critical"
+        },
+        {
+          "name": "Weapon Def+",
+          "item_required": "Diamond Armor",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises weapon defence"
+        },
+        {
+          "name": "Defend Combo",
+          "item_required": "Mythril Brand",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "gladiator": {
+    "available_to": "Bangaa only",
+    "requirements": "2 Warrior A-abilities",
+    "abilities": {
+      "Spellblade Tech": [
+        {
+          "name": "Rush",
+          "item_required": "Sweep Blade",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Damage and push back target"
+        },
+        {
+          "name": "Wild Swing",
+          "item_required": "Ogun Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack all surrounding targets"
+        },
+        {
+          "name": "Beatdown",
+          "item_required": "Shadow Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double damage,halved accuracy"
+        },
+        {
+          "name": "Blitz",
+          "item_required": "Sun Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double accuracy,halved damage"
+        },
+        {
+          "name": "Fire Sword",
+          "item_required": "Flametongue",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Fire damage"
+        },
+        {
+          "name": "Bolt Sword",
+          "item_required": "Air Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Lightning damage"
+        },
+        {
+          "name": "Ice Sword",
+          "item_required": "Ice Brand",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Ice damage"
+        },
+        {
+          "name": "Ultima Sword",
+          "item_required": "Materia Blade",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Heavy damage"
+        },
+        {
+          "name": "Strikeback",
+          "item_required": "Wygar",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Block attack and counter"
+        },
+        {
+          "name": "Doublehand",
+          "item_required": "Venus Blade",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Hold sword with two hands"
+        },
+        {
+          "name": "Sword Combo",
+          "item_required": "Mythril Blade",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "white monk": {
+    "available_to": "Bangaa only",
+    "requirements": "None",
+    "abilities": {
+      "Monk Tech": [
+        {
+          "name": "Whirlwind",
+          "item_required": "Hard Knuckles",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Attack all surrounding units"
+        },
+        {
+          "name": "Air Render",
+          "item_required": "Kaiser Knuckles",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged attack"
+        },
+        {
+          "name": "Earth Render",
+          "item_required": "Tiger Fangs",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack all units in a straight line"
+        },
+        {
+          "name": "Far Fist",
+          "item_required": "Godhand",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged area damage"
+        },
+        {
+          "name": "Chakra",
+          "item_required": "Cat Claws",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Restore HP and remove status ailments"
+        },
+        {
+          "name": "Revive",
+          "item_required": "Survivor",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Revive KO'd unit"
+        },
+        {
+          "name": "Exorcise",
+          "item_required": "Rising Sun",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Remove Undead from battle"
+        },
+        {
+          "name": "Holy Sign",
+          "item_required": "White Fangs",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Dispel magic effects"
+        },
+        {
+          "name": "Reflex",
+          "item_required": "Mirage Vest",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Avoid damage from attack"
+        },
+        {
+          "name": "Counter",
+          "item_required": "Brigandine",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Counter an enemy's attack"
+        },
+        {
+          "name": "Monk Combo",
+          "item_required": "Mythril Claws",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "bishop": {
+    "available_to": "Bangaa only",
+    "requirements": "2 White Monk A-abilities",
+    "abilities": {
+      "Prayer": [
+        {
+          "name": "Cura",
+          "item_required": "Cure Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Recover some HP"
+        },
+        {
+          "name": "Dispel",
+          "item_required": "Bless Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Dispel magic effects"
+        },
+        {
+          "name": "Holy",
+          "item_required": "Nirvana Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Holy damage"
+        },
+        {
+          "name": "Barrier",
+          "item_required": "Garnet Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Raise Defense and Resistance"
+        },
+        {
+          "name": "Judge",
+          "item_required": "Cheer Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Steal JP"
+        },
+        {
+          "name": "Water",
+          "item_required": "Spring Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Water element damage"
+        },
+        {
+          "name": "Aero",
+          "item_required": "Judge Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Air element damage"
+        },
+        {
+          "name": "Break",
+          "item_required": "Snake Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Petrifies enemy"
+        },
+        {
+          "name": "Return Magic",
+          "item_required": "Black Robe",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Counter Magic with Magic"
+        },
+        {
+          "name": "Half MP",
+          "item_required": "Light Robe",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Half MP usage when casting Magic"
+        },
+        {
+          "name": "Pray Combo",
+          "item_required": "Mythril Staff",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "templar": {
+    "available_to": "Bangaa only",
+    "requirements": "2 White Monk A-abilities",
+    "abilities": {
+      "Sacred Tech": [
+        {
+          "name": "Astra",
+          "item_required": "SaveTheQueen",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Prevent next status ailment"
+        },
+        {
+          "name": "Warcry",
+          "item_required": "Javelin",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Reduce surrounding units' speed"
+        },
+        {
+          "name": "Rasp",
+          "item_required": "Apocalypse",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Cheer",
+          "item_required": "Partisan",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Raise weapon attack"
+        },
+        {
+          "name": "Silence",
+          "item_required": "Ragnarok",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Silence status ailment"
+        },
+        {
+          "name": "Soul Sphere",
+          "item_required": "Arch Sword",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Haste",
+          "item_required": "Lohengrin",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Causes Haste status"
+        },
+        {
+          "name": "Lifebreak",
+          "item_required": "Kain's Lance",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Damage equal to lost HP"
+        },
+        {
+          "name": "Bonecrusher",
+          "item_required": "Carabini Mail",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Counter with 1.5 times damage"
+        },
+        {
+          "name": "Weapon Atk+",
+          "item_required": "Trident",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises weapon attack"
+        },
+        {
+          "name": "Sacred Combo",
+          "item_required": "Mythril Brand",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "time mage": {
+    "available_to": "Nu Mou and Moogles",
+    "requirements": "5 Black Mage A-abilities",
+    "abilities": {
+      "Time Magic": [
+        {
+          "name": "Haste",
+          "item_required": "Firewheel Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Causes Haste status"
+        },
+        {
+          "name": "Quicken",
+          "item_required": "Thor Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Makes unit take turn immediately"
+        },
+        {
+          "name": "Slow",
+          "item_required": "Terre Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Causes Slow status"
+        },
+        {
+          "name": "Reflect",
+          "item_required": "Thunder Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Reflect Magic back at unit"
+        },
+        {
+          "name": "Stop",
+          "item_required": "Chill Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Stops enemy in time"
+        },
+        {
+          "name": "Silence",
+          "item_required": "Sleet Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Silence status ailment"
+        },
+        {
+          "name": "Quarter",
+          "item_required": "Force Rod",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Reduce target's HP by 1/4"
+        },
+        {
+          "name": "Demi",
+          "item_required": "Stardust Rod",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Reduce target's HP by 1/2"
+        },
+        {
+          "name": "Last Quicken",
+          "item_required": "Lordly Robe",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Casts Quicken when critical"
+        },
+        {
+          "name": "Time Combo",
+          "item_required": "Mythril Rod",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "alchemist": {
+    "available_to": "Nu Mou only",
+    "requirements": "2 White Mage and 5 Black Mage A-abilities",
+    "abilities": {
+      "Alchemy Skill": [
+        {
+          "name": "Astra",
+          "item_required": "Sage Crosier",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Prevent next status ailment"
+        },
+        {
+          "name": "Death",
+          "item_required": "Life Crosier",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "KO target"
+        },
+        {
+          "name": "Meteor",
+          "item_required": "Scorpion Tail",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Powerful area damage"
+        },
+        {
+          "name": "Rasp",
+          "item_required": "Energy Mace",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Flare",
+          "item_required": "Lotus Mace",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Powerful damage"
+        },
+        {
+          "name": "Poison",
+          "item_required": "Druid Mace",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Poison target"
+        },
+        {
+          "name": "Toad",
+          "item_required": "Mandragora",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Turn target into a frog"
+        },
+        {
+          "name": "Magic Pow+",
+          "item_required": "Morning Star",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises Magic"
+        },
+        {
+          "name": "Maintenance",
+          "item_required": "Adaman Vest",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Prevent items from being stolen/broken"
+        },
+        {
+          "name": "Gold Combo",
+          "item_required": "Mythril Mace",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "beastmaster": {
+    "available_to": "Nu Mou only",
+    "requirements": "None",
+    "abilities": {
+      "Control": [
+        {
+          "name": "Goblin",
+          "item_required": "Demon Bell,War Trumpet",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Goblins"
+        },
+        {
+          "name": "Flan",
+          "item_required": "Demon Bell,Glass Bell",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Flan"
+        },
+        {
+          "name": "Bomb",
+          "item_required": "Demon Bell,Aona Flute",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Bombs"
+        },
+        {
+          "name": "Dragon",
+          "item_required": "Earth Bell",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Dragons"
+        },
+        {
+          "name": "Lamia",
+          "item_required": "Glass Bell",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Lamia"
+        },
+        {
+          "name": "Bug",
+          "item_required": "Fairy Harp",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Bugs"
+        },
+        {
+          "name": "Tonberry",
+          "item_required": "Blood Strings",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Tonberrys"
+        },
+        {
+          "name": "Panther",
+          "item_required": "War Trumpet",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Panthers"
+        },
+        {
+          "name": "Malboro",
+          "item_required": "Aona Flute",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Malboro"
+        },
+        {
+          "name": "Floateye",
+          "item_required": "Black Quena",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Floateyes"
+        },
+        {
+          "name": "Undead",
+          "item_required": "Black Quena",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control the Undead"
+        },
+        {
+          "name": "Fairy",
+          "item_required": "Fairy Harp",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Fairys"
+        },
+        {
+          "name": "Rockbeast",
+          "item_required": "Conch Shell",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Control Rockbeasts"
+        },
+        {
+          "name": "Last Haste",
+          "item_required": "Ninja Gear",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Haste status when critical"
+        },
+        {
+          "name": "Immunity",
+          "item_required": "Survival Vest",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Immune to status ailments"
+        },
+        {
+          "name": "Beast Combo",
+          "item_required": "Mythril Bell",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "morpher": {
+    "available_to": "Nu Mou only",
+    "requirements": "5 Beastmaster A-abilities",
+    "abilities": {
+      "Morph": [
+        {
+          "name": "Goblin",
+          "item_required": "Goblin Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Goblin"
+        },
+        {
+          "name": "Flan",
+          "item_required": "Flan Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Flan"
+        },
+        {
+          "name": "Bomb",
+          "item_required": "Bomb Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Bomb"
+        },
+        {
+          "name": "Dragon",
+          "item_required": "Dragon Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Dragon"
+        },
+        {
+          "name": "Lamia",
+          "item_required": "Lamia Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Lamia"
+        },
+        {
+          "name": "Bug",
+          "item_required": "Bug Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Bug"
+        },
+        {
+          "name": "Panther",
+          "item_required": "Panther Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Panther"
+        },
+        {
+          "name": "Malboro",
+          "item_required": "Malboro Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Malboro"
+        },
+        {
+          "name": "Floateye",
+          "item_required": "Eye Soul",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Morph into Floateye"
+        },
+        {
+          "name": "Damage > MP",
+          "item_required": "Judo Uniform",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "MP damage instead of HP damage"
+        },
+        {
+          "name": "Morph Combo",
+          "item_required": "Mythril Soul",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "sage": {
+    "available_to": "Nu Mou only",
+    "requirements": "3 White Mage and 2 Beastmaster A-abilities",
+    "abilities": {
+      "Sagacity Skill": [
+        {
+          "name": "Drain",
+          "item_required": "Energy Mace",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Attack and drain HP from target"
+        },
+        {
+          "name": "Blind",
+          "item_required": "Druid Mace",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Cause Darkness status ailment"
+        },
+        {
+          "name": "Water",
+          "item_required": "Battle Mace",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Water elemental damage"
+        },
+        {
+          "name": "Aero",
+          "item_required": "Battle Mace",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wind elemental damage"
+        },
+        {
+          "name": "Raise",
+          "item_required": "Life Crosier",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Heal HP and revive KO'd unit"
+        },
+        {
+          "name": "Giga Flare",
+          "item_required": "Lotus Mace",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Powerful area damage"
+        },
+        {
+          "name": "Bio",
+          "item_required": "Madragora",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Inflicts Poison"
+        },
+        {
+          "name": "Ultima Blow",
+          "item_required": "Zeus Mace",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Heavy damage"
+        },
+        {
+          "name": "Reflex",
+          "item_required": "Mirage Vest",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Avoid damage from attack"
+        },
+        {
+          "name": "Weapon Def+",
+          "item_required": "Dark Gear",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises Weapon Defence"
+        },
+        {
+          "name": "Shieldbearer",
+          "item_required": "Round Shield",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Equip shield no matter what job"
+        },
+        {
+          "name": "Wise Combo",
+          "item_required": "Mythril Mace",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "fencer": {
+    "available_to": "Viera only",
+    "requirements": "None",
+    "abilities": {
+      "Lunge Tech": [
+        {
+          "name": "Swarmstrike",
+          "item_required": "Stinger",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Half damage and Poison"
+        },
+        {
+          "name": "Shadowstick",
+          "item_required": "Silver Rapier",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Reduce target's speed"
+        },
+        {
+          "name": "Checkmate",
+          "item_required": "Gupti Aga",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cast Doom on enemy"
+        },
+        {
+          "name": "Featherblow",
+          "item_required": "Estoc",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double accuracy,half damage"
+        },
+        {
+          "name": "Swallowtail",
+          "item_required": "Djinn Flyssa",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack surrounding units"
+        },
+        {
+          "name": "Manastrike",
+          "item_required": "Mage Masher",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "MP damage"
+        },
+        {
+          "name": "Piercethrough",
+          "item_required": "Flamberge",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack two adjacent units"
+        },
+        {
+          "name": "Nighthawk",
+          "item_required": "Joyeuse",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged attack"
+        },
+        {
+          "name": "Reflex",
+          "item_required": "Mirage Vest",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Avoid damage from attack"
+        },
+        {
+          "name": "Shieldbearer",
+          "item_required": "Bronze Shield",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Equip shield no matter what job"
+        },
+        {
+          "name": "Lunge Combo",
+          "item_required": "Mythril Rapier",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": "Shieldbearer can also be learned from the Round Shield."
+  },
+  "elementalist": {
+    "available_to": "Viera only",
+    "requirements": "1 White Mage and 1 Fencer A-ability",
+    "abilities": {
+      "Spirit Magic": [
+        {
+          "name": "Fire Whip",
+          "item_required": "Scarlette",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Fire damage and Disable"
+        },
+        {
+          "name": "Earth Heal",
+          "item_required": "Fleuret",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Heals HP"
+        },
+        {
+          "name": "White Flame",
+          "item_required": "Flamberge",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Heals HP"
+        },
+        {
+          "name": "Shining Air",
+          "item_required": "Djinn Flyssa",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wind damage and Blind"
+        },
+        {
+          "name": "Evil Gaze",
+          "item_required": "Joyeuse",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Dark damage and Confusion"
+        },
+        {
+          "name": "Heavy Dust",
+          "item_required": "Estoc",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Earth damage and Immobilize"
+        },
+        {
+          "name": "Sliprain",
+          "item_required": "Silver Rapier",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Water damage and Slow"
+        },
+        {
+          "name": "Elementalshift",
+          "item_required": "Epeprism",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Shift target's elemental resistance"
+        },
+        {
+          "name": "Absorb MP",
+          "item_required": "Lordly Robe",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Absorb MP used by enemy's attack"
+        },
+        {
+          "name": "Spirit Combo",
+          "item_required": "Mythril Rapier",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "red mage": {
+    "available_to": "Viera only",
+    "requirements": "1 Fencer A-ability",
+    "abilities": {
+      "Red Magic": [
+        {
+          "name": "Barrier",
+          "item_required": "Mage Masher",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Raise Defense and Resistance"
+        },
+        {
+          "name": "Fire",
+          "item_required": "Scarlette",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Weak fire damage"
+        },
+        {
+          "name": "Thunder",
+          "item_required": "Stinger",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Weak thunder damage"
+        },
+        {
+          "name": "Blizzard",
+          "item_required": "Flamberge",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Weak ice damage"
+        },
+        {
+          "name": "Cure",
+          "item_required": "Fleuret",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Recover a little HP"
+        },
+        {
+          "name": "Sleep",
+          "item_required": "Estoc",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflicts Sleep status ailment"
+        },
+        {
+          "name": "Poison",
+          "item_required": "Silver Rapier",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Inflicts Poison"
+        },
+        {
+          "name": "Doublecast",
+          "item_required": "Madu",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Cast two spells in one turn"
+        },
+        {
+          "name": "Catch",
+          "item_required": "Chain Plate",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Catch item thrown by enemy"
+        },
+        {
+          "name": "Magic Pow+",
+          "item_required": "Colichemarde",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raise Magic"
+        },
+        {
+          "name": "Red Combo",
+          "item_required": "Mythril Rapier",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "summoner": {
+    "available_to": "Viera only",
+    "requirements": "2 White Mage and 2 Elementalist A-abilities",
+    "abilities": {
+      "Summon Magic": [
+        {
+          "name": "Unicorn",
+          "item_required": "Pure Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Heal HP and status"
+        },
+        {
+          "name": "Ifrit",
+          "item_required": "Guard Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Fire damage"
+        },
+        {
+          "name": "Ramuh",
+          "item_required": "Judge Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Thunder damage"
+        },
+        {
+          "name": "Shiva",
+          "item_required": "Snake Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Ice damage"
+        },
+        {
+          "name": "Kirin",
+          "item_required": "Cure Staff",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Casts Regen on units"
+        },
+        {
+          "name": "Carbuncle",
+          "item_required": "Garnet Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Casts Reflect on units"
+        },
+        {
+          "name": "Phoenix",
+          "item_required": "Nirvana Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Revive KO'd units"
+        },
+        {
+          "name": "Madeen",
+          "item_required": "Cheer Staff",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Holy damage"
+        },
+        {
+          "name": "Half MP",
+          "item_required": "Light Robe",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Half MP usage when casting magic"
+        },
+        {
+          "name": "Summon Combo",
+          "item_required": "Mythrill Staff",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "assassin": {
+    "available_to": "Viera only",
+    "requirements": "2 Elementalist and 1 Sniper A-ability",
+    "abilities": {
+      "Corner": [
+        {
+          "name": "Shadowbind",
+          "item_required": "Fey Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Cast stop on target"
+        },
+        {
+          "name": "Last Breath",
+          "item_required": "Petalchaser",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Instantly KO target"
+        },
+        {
+          "name": "Aphonia",
+          "item_required": "Murasame",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Silence status ailment"
+        },
+        {
+          "name": "Nightmare",
+          "item_required": "Kikuichimonji",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cast Sleep and Doom on target"
+        },
+        {
+          "name": "Ague",
+          "item_required": "Ranger Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Cast Slow on target"
+        },
+        {
+          "name": "Rockseal",
+          "item_required": "Kotetsu",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cast Petrify on target"
+        },
+        {
+          "name": "Oblivion",
+          "item_required": "Masamune",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Inflict Addle status ailment"
+        },
+        {
+          "name": "Ultima Masher",
+          "item_required": "Zanmato",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Heavy damage"
+        },
+        {
+          "name": "Return Fire",
+          "item_required": "Power Sash",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Return arrow attacks"
+        },
+        {
+          "name": "Killer Combo",
+          "item_required": "Mythril Epee",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "sniper": {
+    "available_to": "Viera only",
+    "requirements": "2 Archer A-abilities",
+    "abilities": {
+      "Sharpshoot": [
+        {
+          "name": "Doubleshot",
+          "item_required": "Twin Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack twice consecutively"
+        },
+        {
+          "name": "Beso Toxico",
+          "item_required": "Cranequin",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack and Poison"
+        },
+        {
+          "name": "Death Sickle",
+          "item_required": "Hades Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cast doom on enemy"
+        },
+        {
+          "name": "Conceal",
+          "item_required": "Windslash Bow",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Become invisible to enemys,except Panthers"
+        },
+        {
+          "name": "Doom Archer",
+          "item_required": "Max's Oathbow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "HP and MP damage equal to damage taken"
+        },
+        {
+          "name": "Aim: Armor",
+          "item_required": "Fey Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Destroy target's armour"
+        },
+        {
+          "name": "Aim: Weapon",
+          "item_required": "Master Bow",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Destory target's weapon"
+        },
+        {
+          "name": "Aim: Wallet",
+          "item_required": "Hunt Bow",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Steal gil from enemy"
+        },
+        {
+          "name": "Auto-Regen",
+          "item_required": "Gaia Gear",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Regen status effect when attacked"
+        },
+        {
+          "name": "Sniper Combo",
+          "item_required": "Mythril Shot",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "animist": {
+    "available_to": "Moogles only",
+    "requirements": "None",
+    "abilities": {
+      "Call": [
+        {
+          "name": "Sheep Count",
+          "item_required": "Glass Bell",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Put enemies to sleep"
+        },
+        {
+          "name": "100% Wool",
+          "item_required": "Earth Bell",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raises Defence and Resistance"
+        },
+        {
+          "name": "Cuisine",
+          "item_required": "Heal Chime",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Fully restores HP"
+        },
+        {
+          "name": "Tail Wag",
+          "item_required": "Fairy Harp",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Charm status on enemy"
+        },
+        {
+          "name": "Chocobo Rush",
+          "item_required": "Satyr Flute",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Straight line damage"
+        },
+        {
+          "name": "Frogsong",
+          "item_required": "Aona Flute",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Turn enemy into a frog"
+        },
+        {
+          "name": "Friend",
+          "item_required": "Blood Strings",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Summon random spirit"
+        },
+        {
+          "name": "Catnip",
+          "item_required": "War Trumpet",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Inflict Berserk status"
+        },
+        {
+          "name": "Block Arrows",
+          "item_required": "Green Beret",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Block all arrow attack"
+        },
+        {
+          "name": "Animal Combo",
+          "item_required": "Mythril Bell",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "mog knight": {
+    "available_to": "Moogles only",
+    "requirements": "1 Animist A-ability",
+    "abilities": {
+      "Charge": [
+        {
+          "name": "Mog Attack",
+          "item_required": "Flametongue",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Damage and push back target"
+        },
+        {
+          "name": "Mog Guard",
+          "item_required": "Kwigon Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Raise Defence and Resistance"
+        },
+        {
+          "name": "Mog Lance",
+          "item_required": "Atmos Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Wide ranged attack"
+        },
+        {
+          "name": "Mog Rush",
+          "item_required": "Shadow Blade",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Double damage,halved accuracy"
+        },
+        {
+          "name": "Mog Shield",
+          "item_required": "Pearl Blade",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Prevent next status ailment"
+        },
+        {
+          "name": "Mog Peek",
+          "item_required": "Paraiba Blade",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Find hidden equipment on enemy"
+        },
+        {
+          "name": "Mog Aid",
+          "item_required": "Icebrand",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Cure HP and status"
+        },
+        {
+          "name": "Ultima Charge",
+          "item_required": "Materia Blade",
+          "ap_cost": 999,
+          "type": "Action",
+          "description": "Heavy damage"
+        },
+        {
+          "name": "Last Haste",
+          "item_required": "Gold Armor",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Haste status when critical"
+        },
+        {
+          "name": "Shieldbearer",
+          "item_required": "Round Shield",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Equip a shield no matter what job"
+        },
+        {
+          "name": "Charge Combo",
+          "item_required": "Mythril Blade",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "gunner": {
+    "available_to": "Moogles only",
+    "requirements": "1 Animist A-ability",
+    "abilities": {
+      "Gunmanship": [
+        {
+          "name": "Fireshot",
+          "item_required": "Aiot Gun",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Fire damage"
+        },
+        {
+          "name": "Boltshot",
+          "item_required": "Riot Gun",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Thunder damage"
+        },
+        {
+          "name": "Iceshot",
+          "item_required": "Giot Gun",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Ice damage"
+        },
+        {
+          "name": "Confushot",
+          "item_required": "Chaos Rifle",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack and Confuse"
+        },
+        {
+          "name": "Charmshot",
+          "item_required": "Peacemaker",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack and Charm"
+        },
+        {
+          "name": "Blindshot",
+          "item_required": "Silver Cannon",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Attack and Darkness"
+        },
+        {
+          "name": "Silenshot",
+          "item_required": "Lost Gun",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Attack and Silence"
+        },
+        {
+          "name": "Stopshot",
+          "item_required": "Outsider",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Attack and Stop"
+        },
+        {
+          "name": "Concentrate",
+          "item_required": "Longbarrel",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "Raises accuracy of most actions"
+        },
+        {
+          "name": "Gun Combo",
+          "item_required": "Mythril Gun",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "juggler": {
+    "available_to": "Moogle only",
+    "requirements": "2 Thief A-abilities",
+    "abilities": {
+      "Stunt": [
+        {
+          "name": "Hurl",
+          "item_required": "Kris Knife",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Throw an unequipped weapon"
+        },
+        {
+          "name": "Ring",
+          "item_required": "Rondell Dagger",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Cast Stop on target"
+        },
+        {
+          "name": "Firebomb",
+          "item_required": "Khukuri",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Damage and Berserk"
+        },
+        {
+          "name": "Ball",
+          "item_required": "Scramasax",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Inflict Confuse"
+        },
+        {
+          "name": "Dagger",
+          "item_required": "Jambiya",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Damage and Disable"
+        },
+        {
+          "name": "Smile",
+          "item_required": "Orichalcum",
+          "ap_cost": 300,
+          "type": "Action",
+          "description": "Makes unit take turn immdeiately(Quicken)"
+        },
+        {
+          "name": "Gil Toss",
+          "item_required": "Jack Knife",
+          "ap_cost": 100,
+          "type": "Action",
+          "description": "Throw Gil at enemy"
+        },
+        {
+          "name": "Catch",
+          "item_required": "Chain Plate",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Catch item thrown by enemy"
+        },
+        {
+          "name": "Return Fire",
+          "item_required": "Power Sash",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Return arrow attacks"
+        },
+        {
+          "name": "Juggle Combo",
+          "item_required": "Mythril Knife",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": ""
+  },
+  "gadgeteer": {
+    "available_to": "Moogle only",
+    "requirements": "2 Thief A-abilities",
+    "abilities": {
+      "Pandora": [
+        {
+          "name": "Red Spring",
+          "item_required": "Rising Sun",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Haste status on all"
+        },
+        {
+          "name": "Blue Screw",
+          "item_required": "White Fangs",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Dispel on all"
+        },
+        {
+          "name": "Green Gear",
+          "item_required": "Sick Knuckles",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Poison all"
+        },
+        {
+          "name": "Silver Disc",
+          "item_required": "Hard Knuckles",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Darkness on all"
+        },
+        {
+          "name": "Gold Battery",
+          "item_required": "Cat Claws",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Recover HP for all"
+        },
+        {
+          "name": "Black Ingot",
+          "item_required": "Death Claws",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Doom on all"
+        },
+        {
+          "name": "Chroma Gem",
+          "item_required": "Dream Claws",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Sleep on all"
+        },
+        {
+          "name": "Yellow Spring",
+          "item_required": "Survivor",
+          "ap_cost": 200,
+          "type": "Action",
+          "description": "Casts Protect and Shell on all"
+        },
+        {
+          "name": "Auto-Regen",
+          "item_required": "Gaia Gear",
+          "ap_cost": 300,
+          "type": "Reaction",
+          "description": "Regen status effect when attacked"
+        },
+        {
+          "name": "Damage > MP",
+          "item_required": "Judo Uniform",
+          "ap_cost": 300,
+          "type": "Support",
+          "description": "MP damage instead of HP damage"
+        },
+        {
+          "name": "Gadget Combo",
+          "item_required": "Mythril Claws",
+          "ap_cost": 100,
+          "type": "Combo",
+          "description": "Use JP to attack with clan members"
+        }
+      ]
+    },
+    "notes": "The Pandora A-abilities involve flipping a coin to see who the ability will affect. If it lands on a red sun then all your units will be affected, if it lands on a yellow moon with a green background then you all your enemies will be affected."
+  }
+}

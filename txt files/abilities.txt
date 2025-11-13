@@ -1,0 +1,705 @@
+4.1 SOLDIER  *
+~~~~~~~~~~~
+Availabe to: Humans only
+Requirements: None
+
+Battle Tech
+==========
+First Aid   | Shortsword    |100 AP|A| Cure HP and status
+Powerbreak  | Barong        |200 AP|A| Lower target's weapon attack
+Mindbreak   | Buster Sword  |200 AP|A| Lower target's magic
+Magicbreak  | Ancient Sword |200 AP|A| MP damage
+Speedbreak  | Silver Sword  |200 AP|A| Lower target's speed
+Mug         | Diamond Sword |300 AP|A| Damages target and steals carried gil
+Provoke     | Blood Sword   |300 AP|A| Cause Berserk status
+Sensor      | Burglar Sword |300 AP|A| Find hidden equipment on enemy
+Monkey Grip | Vigilante     |300 AP|S| Hold two-handed weapon with one hand
+Shieldbearer| Bronze Shield |300 AP|S| Equip a shield no matter what job
+Combat Combo| Mythril Sword |100 AP|C| Use JP to attack with clan members
+
+Note: Shieldbearer can also be learned from the Opal Shield.
+
+
+4.2 PALADIN  *
+~~~~~~~~~~~
+Availabe to: Humans only
+Requirements: 2 Soldier A-abilities
+
+Chivalry
+========
+Nurse       | Defender      |100 AP|A| Cure HP and status
+Defense     | Lionheart     |200 AP|A| Raise Defence and Resistance
+Cover       | SaveTheQueen  |200 AP|A| Take damage for a clan member
+Subdue      | Ancient Sword |200 AP|A| Low damage attack
+Drop Weapon | Ragnarok      |200 AP|A| Disarm target
+Parley      | Barong        |200 AP|A| Remove weakened monsters from battle
+Saint Cross | Arch Sword    |300 AP|A| Holy damage in a cross-shaped area
+Holy Blade  | Excalibur     |300 AP|A| Heavy holy damage
+Reflex      | Genji Armor   |300 AP|R| Completely dodge attacks
+Weapon Def+ | Diamond Armor |300 AP|S| Raises Weapon Defence
+Knight Combo| Mythril Brand |100 AP|C| Use JP to attack with clan members
+
+
+4.3 FIGHTER  *
+~~~~~~~~~~~
+Availabe to: Humans only
+Requirements: 2 Soldier A-abilities
+
+Fighter Tech
+============
+Rush       | Sweep Blade  |100 AP|A| Damage and push back target
+Wild Swing | Ogun Blade   |200 AP|A| Damage all adjacent units
+Beatdown   | Shadow Blade |200 AP|A| Double damage, halved accuracy
+Blitz      | Sun Blade    |200 AP|A| Double accuracy,halved damage
+Air Render | Atmos Blade  |200 AP|A| Wide ranged attack
+Far Fist   | Kwigon Blade |200 AP|A| Wide ranged area damage attack
+Air Blast  | Air Blade    |300 AP|A| Wind area damage
+Backdraft  | Flametongue  |300 AP|A| Fire area damage, causes self damage
+Bonecrusher| Ninja Gear   |300 AP|R| Counter with 1.5 times damage
+Strikeback | Wygar        |300 AP|R| Block attack and counter
+Doublehand | Venus Blade  |300 AP|S| Hold sword with two hands
+Fight Combo| Mythril Blade|100 AP|C| Use JP to attack with clan members
+
+
+4.4 THIEF  *
+~~~~~~~~~
+Available to: Humans and Moogles
+Requirements: None
+
+Steal
+=====
+Steal:Armor  | Rondell Dagger |200 AP|A| Steal enemy's armor
+Steal:Shield | Scramasax      |200 AP|A| Steal enemy's shield
+Steal:Access | Jambiya        |300 AP|A| Steal enemy's accessory
+Steal:Helm   | Kard           |100 AP|A| Steal enemy's helmet
+Steal:Weapon | Sword Breaker  |300 AP|A| Steal enemy's weapon
+Steal:Gil    | Jack Knife     |100 AP|A| Steal Gil from an enemy
+Steal:EXP    | Khukuri        |100 AP|A| Steal EXP from an enemy
+Steal:JP     | Orichalcum     |200 AP|A| Steal JP from an enemy
+Steal:Ability| Cinquedea      |300 AP|A| Steal an ability from an enemy
+Counter      | Brigandine     |300 AP|R| Counter an enemy's attack
+Maintenance  | Adaman Vest    |300 AP|S| Prevent equipment from being stolen/broken
+Thief Combo  | Mythril Knife  |100 AP|C| Use JP to attack with clan members
+
+
+4.5 NINJA  *
+~~~~~~~~~
+Available to: Humans only
+Reuirements: 2 Thief A-abilities
+
+Ninja Skill
+===========
+Throw       | Ninja Knife    |100 AP|A| Throw an item from your inventory
+Wood Veil   | Kotetsu        |200 AP|A| Damage and immobilise
+Fire Veil   | Ashura         |200 AP|A| Fire damage and confuse
+Earth Veil  | Osafune        |200 AP|A| Earth damage and Slow
+Metal Veil  | Kikuichimonji  |200 AP|A| Damage and Darkness
+Water Veil  | Murasame       |200 AP|A| Water damage and Silence
+Unspell     | Heaven's Cloud |300 AP|A| Nullify Magic effect
+Oblivion    | Masamune       |300 AP|A| Inflict Addle status ailment
+Last Haste  | Ninja Gear     |300 AP|S| Haste status when critical
+Double Sword| Nosada         |999 AP|S| Equip a weapon in each hand
+
+Ninja Combo |
+ Mythril Epee   |100 AP|C| Use JP to attack with clan members
+
+
+4.6 WHITE MAGE  *
+~~~~~~~~~~~~~~
+Available to: Humans, Nu Mou and Viera
+Requirments: None
+
+White Magic
+===========
+Cure       | White Staff   |100 AP|A| Recover a little HP
+Cura       | Cure Staff    |200 AP|A| Recover some HP
+Curaga     | Spring Staff  |300 AP|A| Recover a lot of HP
+Esuna      | Pure Staff    |200 AP|A| Cure status ailments
+Life       | Bless Staff   |200 AP|A| Revive KO'd unit with half HP
+Full-Life  | Nirvana Staff |300 AP|A| Revive Ko'd unit with full HP
+Auto-Life  | Cheer Staff   |200 AP|A| Casts Reraise status on target
+Shell      | Judge Staff   |200 AP|A| Raises Magic Resistance
+Protect    | Guard Staff   |200 AP|A| Raises Weapon Defence
+Turbo MP   | White Robe    |300 AP|S| Use double MP but raise power
+White Combo| Mythril Staff |100 AP|C| Use JP to attack with clan members
+
+
+4.7 Black Mage  *
+~~~~~~~~~~~~~~
+Available to: Humans, Nu Mou and Moogles
+Requirements: None
+
+Black Magic
+===========
+Fire        | Rod           |100 AP|A| Weak fire damage
+Fira        | Firewheel Rod |200 AP|A| Average fire damage
+Firaga      | Flame Rod     |300 AP|A| Strong fire damage
+Thunder     | Rod           |100 AP|A| Weak thunder damage
+Thundara    | Thunder Rod   |200 AP|A| Average thunder damage
+Thundaga    | Thor Rod      |300 AP|A| Strong thunder damage
+Blizzard    | Rod           |100 AP|A| Weak ice damage
+Blizzara    | Sleet Rod     |200 AP|A| Average ice damage
+Blizzaga    | Chill Rod     |300 AP|A| Strong ice damage
+Return Magic| Black Robe    |300 AP|R| Counter Magic with Magic
+Geomancy    | Sage Robe     |300 AP|S| Increases elemental power
+Black Combo | Mythril Rod   |100 AP|C| Use JP to attack with clan members
+
+
+4.8 ILLUSIONIST  *
+~~~~~~~~~~~~~~~
+Available to: Humans and Nu Mou
+Requirements: 3 White Mage and 5 Black Mage A-abilities
+
+Phantasm Skill
+==============
+Prominence   | Firewheel Rod |100 AP|A| Fire damage to all enemies
+Tempest      | Thunder Rod   |100 AP|A| Thunder damage to all enemies
+Freezeblink  | Sleet Rod     |100 AP|A| Ice damage to all enemies
+Star Cross   | Princess Rod  |300 AP|A| Holy damage to all enemies
+Stardust     | Stardust Rod  |300 AP|A| Damage to all enemies
+Deluge       | Chill Rod     |300 AP|A| Water damage to all enemies
+Soil Evidence| Terre Rod     |200 AP|A| Earth damage to all enemies
+Wild Tornado | Thor Rod      |200 AP|A| Wind damage to all enemies
+Absorb MP    | Lordly Robe   |300 AP|R| Absorb MP used by enemy's attack
+Half MP      | Light Robe    |300 AP|S| Half MP usage when casting Magic
+Spell Combo  | Mythril Rod   |100 AP|C| Use JP to attack with clan members
+
+
+4.9 BLUE MAGE  *
+~~~~~~~~~~~~~
+Available to: Humans only
+Requirements: 1 White Mage and 1 Black Mage A-ability
+
+Blue Magic
+==========
+Goblin Punch   | Goblin        |      |A| Random damage
+Magic Hammer   | Red Cap       |      |A| MP damage
+Acid           | All Flan      |      |A| Inflict a random status ailment
+Blowup         | All Bombs     |      |A| Sacrifice unit to cause major damage
+Mighty Guard   | Icedrake      |      |A| Raise Defence and Resistance
+Guard-Off      | Firewyrm      |      |A| Lower Defence and Resistance
+Dragon Force   | Thundrake     |      |A| Raise Weapon Attack and Magic
+Night          | Lamia         |      |A| Cast sleep on all units
+Twister        | Lilith        |      |A| Half targets' HP
+L3 Def Less    | Antlion       |      |A| Lower Defence and Resistance lvl/3
+Matra Magic    | Blade Biter   |      |A| Switch MP and HP levels
+Poison Claw    | Red Panther   |      |A| Damage and poison
+Hastebreak     | Coeurl        |      |A| Slow or Stop if hasted
+Bad Breath     | Malboro       |      |A| Inflict multiple status ailments
+Stare          | Floateye      |      |A| Inflicts Confuse status ailment from front
+Roulette       | Ahriman       |      |A| Death on random unit
+Drain Touch    | Zombie        |      |A| Attack and drain HP
+L? Shadow Flare| Vampire       |      |A| Damage if 2nd level digit is the same
+White Wind     | Sprite        |      |A| Heal HP
+Angel Whisper  | Titania       |      |A| Heal HP and Auto-Life
+Damage > MP    | Judo Uniform  |300 AP|R| MP damage instead of HP damage
+Immunity       | Survival Vest |300 AP|S| Immune to Status ailments
+Learning       | Blue Saber    |400 AP|S| Learn monsters' abilities
+Blue Combo     | Mythril Saber |100 AP|C| Use JP to attack with clan members
+
+
+4.10 ARCHER  *
+~~~~~~~~~~~
+Available to: Humans and Viera
+Requirements: None
+
+Aim
+===
+Boost       | Longbow     |100 AP|A| Raise strength of next attack
+Aim:Legs    | Thorn Bow   |200 AP|A| Immobilise enemy
+Aim:Arm     | Nail Bow    |200 AP|A| Disable enemy's actions
+Cupid       | Artemis Bow |200 AP|A| Inflict Charm status on enemy
+Burial      | Silver Bow  |300 AP|A| Remove Undead from battle
+Take Aim    | Yoichi Bow  |300 AP|A| Never miss attack,halved damage
+Faster      | Perseus Bow |300 AP|A| Attack and nullify R-abilities
+Blackout    | Char Bow    |200 AP|A| Inflict darkness status ailment on enemy
+Block Arrows| Green Beret |300 AP|R| Block all arrow attacks
+Concentrate | Target Bow  |300 AP|S| Raises accuracy of most actions
+Bow Combo   | Mythril Bow |100 AP|C| Use JP to attack with clan members
+
+
+4.11 HUNTER  *
+~~~~~~~~~~~
+Available to: Humans only
+Requirements: 2 Archer A-abilities
+
+Hunt
+====
+Sonic Boom | Cranequin      |200 AP|A| Area Damage
+Oust       | Windslash Bow  |200 AP|A| Remove weakened monster from battle
+Advice     | Twin Bow       |100 AP|A| Raise critical ratio
+Aim:Vitals | Fey Bow        |300 AP|A| Inflict random status ailment
+Hunting    | Hunt Bow       |300 AP|A| Receive more JP from a KO
+Addle      | Master Bow     |200 AP|A| Inflict Addle status ailment
+Ultima Shot| Seventh Heaven |999 AP|A| Heavy damage
+Sidewinder | Hades Bow      |300 AP|A| Heavy damage to monsters
+Capture    | Ranger Bow     |200 AP|A| Capture weakened monster
+Auto-Regen | Gaia Gear      |300 AP|R| Regen status effect when attacked
+Weapon Atk+| Nike Bow       |300 AP|S| Raises weapon attack
+Hunt Combo | Mythril Shot   |100 AP|C| Use JP to attack with clan members
+
+
+4.12 WARRIOR  *
+~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: None
+
+Battle Tech
+==========
+First Aid    | Shortsword    |100 AP|A| Cure HP and status
+
+Powerbreak   | Samson Sword  |200 AP|A| Lower target's weapon attack
+Mindbreak    | Buster Sword  |200 AP|A| Lower target's magic
+Magicbreak   | Falchion      |200 AP|A| MP damage
+Speedbreak   | Silver Sword  |200 AP|A| Lower target's speed
+Body Slam    | Striborg      |300 AP|A| Heavy damage,but recoils
+Greased Bolt | Gale Sword    |300 AP|A| Attack and nullify R-abilities
+Downsize     | Restorer      |300 AP|A| Halve target's HP
+
+Monkey Grip  | Claymore      |300 AP|S| Hold two-handed weapon with one hand
+
+Shieldbearer | Bronze Shield |300 AP|S| Equip a shield no matter what job
+Combat Combo | Mythril Sword |100 AP|C| Use JP to attack with clan members
+
+Note:Shielbearer can also be learned from the Opal Shield.
+
+
+4.13 DRAGOON  *
+~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: 2 Warrior A-abilities
+
+Dragon Tech
+===========
+Jump        | Javelin        |100 AP|A|
+Lancet      | Restorer       |300 AP|A| Attack and drain HP
+Wyrmtamer   | Buster Sword   |200 AP|A| Remove weakened Dragon from battle
+Fire Breath | Lava Spear     |300 AP|A| Fire damage in a T-area
+Bolt Breath | Gae Bolg       |300 AP|A| Lightning damage in a T-area
+Ice Breath  | Ice Lance      |300 AP|A| Ice damage in a T-area
+Wyrmkiller  | Blood Sword    |300 AP|A| Heavy damage to Dragons
+Bangaa Cry  | Dragon Whisker |200 AP|A| Damage in a T-area
+Dragonheart | Vitanova       |300 AP|R| Reraise status effect when damaged
+Dragon Combo| Mythril Spear  |100 AP|C| Use JP to attack with clan members
+
+
+4.14 DEFENDER  *
+~~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: 2 Warrior A-abilities
+
+Defend
+======
+Tremor      | El Cid Sword  |100 AP|A| Damage and knock back surrounding units
+Meltdown    | Vajra         |200 AP|A| Use HP to do damage to surrounding units
+Defense     | Lionheart     |200 AP|A| Raise Defense and Resistance
+Drop Weapon | Ragnarok      |200 AP|A| Make target drop weapon
+Hibernate   | Defender      |100 AP|A| Hibernate and remove all status ailments
+Mow Down    | Striborg      |200 AP|A| Area damage but lowers speed
+Aura        | Lohengrin     |300 AP|A| Casts Reraise and Regen
+Expert Guard| SaveTheQueen  |300 AP|A| Prevent all damage
+Last Berserk| Predator      |300 AP|R| Berserk status when critical
+Weapon Def+ | Diamond Armor |300 AP|S| Raises weapon defence
+Defend Combo| Mythril Brand |100 AP|C| Use JP to attack with clan members
+
+
+4.15 GLADIATOR  *
+~~~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: 2 Warrior A-abilities
+
+Spellblade Tech
+===============
+Rush        | Sweep Blade   |100 AP|A| Damage and push back target
+Wild Swing  | Ogun Blade    |200 AP|A| Attack all surrounding targets
+Beatdown    | Shadow Blade  |200 AP|A| Double damage,halved accuracy
+Blitz       | Sun Blade     |200 AP|A| Double accuracy,halved damage
+Fire Sword  | Flametongue   |200 AP|A| Fire damage
+Bolt Sword  | Air Blade     |200 AP|A| Lightning damage
+Ice Sword   | Ice Brand     |200 AP|A| Ice damage
+Ultima Sword| Materia Blade |999 AP|A| Heavy damage
+Strikeback  | Wygar         |300 AP|R| Block attack and counter
+Doublehand  | Venus Blade   |300 AP|S| Hold sword with two hands
+Sword Combo | Mythril Blade |100 AP|C| Use JP to attack with clan members
+
+
+4.16 WHITE MONK  *
+~~~~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: None
+
+Monk Tech
+=========
+Whirlwind   | Hard Knuckles   |100 AP|A| Attack all surrounding units
+Air Render  | Kaiser Knuckles |200 AP|A| Wide ranged attack
+Earth Render| Tiger Fangs     |200 AP|A| Attack all units in a straight line
+Far Fist    | Godhand         |200 AP|A| Wide ranged area damage
+Chakra      | Cat Claws       |200 AP|A| Restore HP and remove status ailments
+Revive      | Survivor        |300 AP|A| Revive KO'd unit
+Exorcise    | Rising Sun      |300 AP|A| Remove Undead from battle
+Holy Sign   | White Fangs     |200 AP|A| Dispel magic effects
+Reflex      | Mirage Vest     |300 AP|R| Avoid damage from attack
+Counter     | Brigandine      |300 AP|R| Counter an enemy's attack
+Monk Combo  | Mythril Claws   |100 AP|C| Use JP to attack with clan members
+
+
+4.17 BISHOP  *
+~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: 2 White Monk A-abilities
+
+Prayer
+======
+Cura        | Cure Staff    |200 AP|A| Recover some HP
+Dispel      | Bless Staff   |200 AP|A| Dispel magic effects
+Holy        | Nirvana Staff |300 AP|A| Holy damage
+Barrier     | Garnet Staff  |300 AP|A| Raise Defense and Resistance
+Judge       | Cheer Staff   |300 AP|A| Steal JP
+Water       | Spring Staff  |200 AP|A| Water element damage
+Aero        | Judge Staff   |200 AP|A| Air element damage
+Break       | Snake Staff   |200 AP|A| Petrifies enemy
+Return Magic| Black Robe    |300 AP|R| Counter Magic with Magic
+Half MP     | Light Robe    |300 AP|S| Half MP usage when casting Magic
+Pray Combo  | Mythril Staff |100 AP|C| Use JP to attack with clan members
+
+
+4.18 TEMPLAR  *
+~~~~~~~~~~~~
+Available to: Bangaa only
+Requirements: 2 White Monk A-abilities
+
+Sacred Tech
+===========
+Astra       | SaveTheQueen   |200 AP|A| Prevent next status ailment
+Warcry      | Javelin        |300 AP|A| Reduce surrounding units' speed
+Rasp        | Apocalypse     |100 AP|A| MP damage
+Cheer       | Partisan       |100 AP|A| Raise weapon attack
+Silence     | Ragnarok       |200 AP|A| Inflict Silence status ailment
+Soul Sphere | Arch Sword     |300 AP|A| MP damage
+Haste       | Lohengrin      |200 AP|A| Causes Haste status
+Lifebreak   | Kain's Lance   |300 AP|A| Damage equal to lost HP
+Bonecrusher | Carabini Mail  |300 AP|R| Counter with 1.5 times damage
+Weapon Atk+ | Trident        |300 AP|S| Raises weapon attack
+Sacred Combo| Mythril Brand  |100 AP|C| Use JP to attack with clan members
+
+
+4.19 TIME MAGE  *
+~~~~~~~~~~~~~~
+Available to: Nu Mou and Moogles
+Requirements: 5 Black Mage A-abilities
+
+Time Magic
+==========
+Haste       | Firewheel Rod |200 AP|A| Causes Haste status
+Quicken     | Thor Rod      |300 AP|A| Makes unit take turn immediately
+Slow        | Terre Rod     |200 AP|A| Causes Slow status
+Reflect     | Thunder Rod   |300 AP|A| Reflect Magic back at unit
+Stop        | Chill Rod     |300 AP|A| Stops enemy in time
+Silence     | Sleet Rod     |200 AP|A| Inflict Silence status ailment
+Quarter     | Force Rod     |200 AP|A| Reduce target's HP by 1/4
+Demi        | Stardust Rod  |300 AP|A| Reduce target's HP by 1/2
+Last Quicken| Lordly Robe   |300 AP|R| Casts Quicken when critical
+Time Combo  | Mythril Rod   |100 AP|C| Use JP to attack with clan members
+
+
+4.20 ALCHEMIST  *
+~~~~~~~~~~~~~~
+Available to: Nu Mou only
+Requirements: 2 White Mage and 5 Black Mage A-abilities
+
+Alchemy Skill
+=============
+Astra      | Sage Crosier  |200 AP|A| Prevent next status ailment
+Death      | Life Crosier  |300 AP|A| KO target
+Meteor     | Scorpion Tail |300 AP|A| Powerful area damage
+Rasp       | Energy Mace   |100 AP|A| MP damage
+Flare      | Lotus Mace    |300 AP|A| Powerful damage
+Poison     | Druid Mace    |100 AP|A| Poison target
+Toad       | Mandragora    |200 AP|A| Turn target into a frog
+Magic Pow+ | Morning Star  |300 AP|S| Raises Magic
+Maintenance| Adaman Vest   |300 AP|S| Prevent items from being stolen/broken
+Gold Combo | Mythril Mace  |100 AP|C| Use JP to attack with clan members
+
+
+4.21 BEASTMASTER  *
+~~~~~~~~~~~~~~~~
+Available to: Nu Mou only
+Requirements: None
+
+Control
+=======
+Goblin     | Demon Bell,War Trumpet |200 AP|A| Control Goblins
+Flan       | Demon Bell,Glass Bell  |200 AP|A| Control Flan
+Bomb       | Demon Bell,Aona Flute  |200 AP|A| Control Bombs
+Dragon     | Earth Bell             |200 AP|A| Control Dragons
+Lamia      | Glass Bell             |200 AP|A| Control Lamia
+Bug        | Fairy Harp             |200 AP|A| Control Bugs
+Tonberry   | Blood Strings          |200 AP|A| Control Tonberrys
+Panther    | War Trumpet            |200 AP|A| Control Panthers
+Malboro    | Aona Flute             |200 AP|A| Control Malboro
+Floateye   | Black Quena            |200 AP|A| Control Floateyes
+Undead     | Black Quena            |200 AP|A| Control the Undead
+Fairy      | Fairy Harp             |200 AP|A| Control Fairys
+Rockbeast  | Conch Shell            |200 AP|A| Control Rockbeasts
+Last Haste | Ninja Gear             |300 AP|R| Haste status when critical
+Immunity   | Survival Vest          |300 AP|S| Immune to status ailments
+Beast Combo| Mythril Bell           |100 AP|C| Use JP to attack with clan members
+
+
+4.22 MORPHER  *
+~~~~~~~~~~~~
+Available to: Nu Mou only
+Requirements: 5 Beastmaster A-abilities
+
+Morph
+=====
+Goblin     | Goblin Soul  |200 AP|A| Morph into Goblin
+Flan       | Flan Soul    |200 AP|A| Morph into Flan
+Bomb       | Bomb Soul    |200 AP|A| Morph into Bomb
+Dragon     | Dragon Soul  |200 AP|A| Morph into Dragon
+Lamia      | Lamia Soul   |200 AP|A| Morph into Lamia
+Bug        | Bug Soul     |200 AP|A| Morph into Bug
+Panther    | Panther Soul |200 AP|A| Morph into Panther
+Malboro    | Malboro Soul |200 AP|A| Morph into Malboro
+Floateye   | Eye Soul     |200 AP|A| Morph into Floateye
+Damage > MP| Judo Uniform |300 AP|R| MP damage instead of HP damage
+Morph Combo| Mythril Soul |100 AP|C| Use JP to attack with clan members
+
+
+4.23 SAGE  *
+~~~~~~~~~
+Available to: Nu Mou only
+Requirements: 3 White Mage and 2 Beastmaster A-abilities
+
+Sagacity Skill
+==============
+Drain       | Energy Mace  |100 AP|A| Attack and drain HP from target
+Blind       | Druid Mace   |100 AP|A| Cause Darkness status ailment
+Water       | Battle Mace  |200 AP|A| Water elemental damage
+Aero        | Battle Mace  |200 AP|A| Wind elemental damage
+Raise       | Life Crosier |300 AP|A| Heal HP and revive KO'd unit
+Giga Flare  | Lotus Mace   |300 AP|A| Powerful area damage
+Bio         | Madragora    |300 AP|A| Inflicts Poison
+Ultima Blow | Zeus Mace    |999 AP|A| Heavy damage
+Reflex      | Mirage Vest  |300 AP|R| Avoid damage from attack
+Weapon Def+ | Dark Gear    |300 AP|S| Raises Weapon Defence
+Shieldbearer| Round Shield |300 AP|S| Equip shield no matter what job
+Wise Combo  | Mythril Mace |100 AP|C| Use JP to attack with clan members
+
+
+4.24 FENCER  *
+~~~~~~~~~~~
+Available to: Viera only
+Requirements: None
+
+Lunge Tech
+==========
+Swarmstrike  | Stinger        |100 AP|A| Half damage and Poison
+Shadowstick  | Silver Rapier  |200 AP|A| Reduce target's speed
+Checkmate    | Gupti Aga      |300 AP|A| Cast Doom on enemy
+Featherblow  | Estoc          |200 AP|A| Double accuracy,half damage
+Swallowtail  | Djinn Flyssa   |300 AP|A| Attack surrounding units
+Manastrike   | Mage Masher    |300 AP|A| MP damage
+Piercethrough| Flamberge      |200 AP|A| Attack two adjacent units
+Nighthawk    | Joyeuse        |200 AP|A| Wide ranged attack
+Reflex       | Mirage Vest    |300 AP|R| Avoid damage from attack
+Shieldbearer | Bronze Shield  |300 AP|S| Equip shield no matter what job
+Lunge Combo  | Mythril Rapier |100 AP|C| Use JP to attack with clan members
+
+Note: Shieldbearer can also be learned from the Round Shield.
+
+4.25 ELEMENTALIST  *
+~~~~~~~~~~~~~~~~~
+Available to: Viera only
+Requirements: 1 White Mage and 1 Fencer A-ability
+
+Spirit Magic
+============
+Fire Whip     | Scarlette      |100 AP|A| Fire damage and Disable
+Earth Heal    | Fleuret        |200 AP|A| Heals HP
+White Flame   | Flamberge      |100 AP|A| Heals HP
+Shining Air   | Djinn Flyssa   |200 AP|A| Wind damage and Blind
+Evil Gaze     | Joyeuse        |300 AP|A| Dark damage and Confusion
+Heavy Dust    | Estoc          |200 AP|A| Earth damage and Immobilize
+Sliprain      | Silver Rapier  |200 AP|A| Water damage and Slow
+Elementalshift| Epeprism       |300 AP|A| Shift target's elemental resistance
+Absorb MP     | Lordly Robe    |300 AP|R| Absorb MP used by enemy's attack
+Spirit Combo  | Mythril Rapier |100 AP|C| Use JP to attack with clan members
+
+
+4.26 RED MAGE  *
+~~~~~~~~~~~~~
+Available to: Viera only
+Requirements: 1 Fencer A-ability
+
+Red Magic
+=========
+Barrier   | Mage Masher    |300 AP|A| Raise Defense and Resistance
+Fire      | Scarlette      |100 AP|A| Weak fire damage
+Thunder   | Stinger        |100 AP|A| Weak thunder damage
+Blizzard  | Flamberge      |100 AP|A| Weak ice damage
+Cure      | Fleuret        |100 AP|A| Recover a little HP
+Sleep     | Estoc          |200 AP|A| Inflicts Sleep status ailment
+Poison    | Silver Rapier  |100 AP|A| Inflicts Poison
+Doublecast| Madu           |999 AP|A| Cast two spells in one turn
+Catch     | Chain Plate    |300 AP|R| Catch item thrown by enemy
+Magic Pow+| Colichemarde   |300 AP|S| Raise Magic
+Red Combo | Mythril Rapier |100 AP|C| Use JP to attack with clan members
+
+4.27 SUMMONER  *
+~~~~~~~~~~~~~
+Available to: Viera only
+Requirements: 2 White Mage and 2 Elementalist A-abilities
+
+Summon Magic
+============
+Unicorn     | Pure Staff     |200 AP|A| Heal HP and status
+Ifrit       | Guard Staff    |200 AP|A| Fire damage
+Ramuh       | Judge Staff    |200 AP|A| Thunder damage
+Shiva       | Snake Staff    |200 AP|A| Ice damage
+Kirin       | Cure Staff     |200 AP|A| Casts Regen on units
+Carbuncle   | Garnet Staff   |300 AP|A| Casts Reflect on units
+Phoenix     | Nirvana Staff  |300 AP|A| Revive KO'd units
+Madeen      | Cheer Staff    |300 AP|A| Holy damage
+Half MP     | Light Robe     |300 AP|S| Half MP usage when casting magic
+Summon Combo| Mythrill Staff |100 AP|C| Use JP to attack with clan members
+
+
+4.28 ASSASSIN  *
+~~~~~~~~~~~~~
+Available to: Viera only
+Requirements: 2 Elementalist and 1 Sniper A-ability
+
+Corner
+======
+Shadowbind    | Fey Bow       |200 AP|A| Cast stop on target
+Last Breath   | Petalchaser   |300 AP|A| Instantly KO target
+Aphonia       | Murasame      |200 AP|A| Inflict Silence status ailment
+Nightmare     | Kikuichimonji |300 AP|A| Cast Sleep and Doom on target
+Ague          | Ranger Bow    |200 AP|A| Cast Slow on target
+Rockseal      | Kotetsu       |300 AP|A| Cast Petrify on target
+Oblivion      | Masamune      |300 AP|A| Inflict Addle status ailment
+Ultima Masher | Zanmato       |999 AP|A| Heavy damage
+Return Fire   | Power Sash    |300 AP|R| Return arrow attacks
+Killer Combo  | Mythril Epee  |100 AP|C| Use JP to attack with clan members
+
+
+4.29 SNIPER  *
+~~~~~~~~~~~
+Available to: Viera only
+Requirements: 2 Archer A-abilities
+
+Sharpshoot
+==========
+Doubleshot  | Twin Bow      |300 AP|A| Attack twice consecutively
+Beso Toxico | Cranequin     |200 AP|A| Attack and Poison
+Death Sickle| Hades Bow     |300 AP|A| Cast doom on enemy
+Conceal     | Windslash Bow |100 AP|A| Become invisible to enemys,except Panthers
+Doom Archer | Max's Oathbow |300 AP|A| HP and MP damage equal to damage taken
+Aim: Armor  | Fey Bow       |300 AP|A| Destroy target's armour
+Aim: Weapon | Master Bow    |300 AP|A| Destory target's weapon
+Aim: Wallet | Hunt Bow      |200 AP|A| Steal gil from enemy
+Auto-Regen  | Gaia Gear     |300 AP|R| Regen status effect when attacked
+Sniper Combo| Mythril Shot  |100 AP|C| Use JP to attack with clan members
+
+
+4.30 ANIMIST  *
+~~~~~~~~~~~~
+Available to: Moogles only
+Requirements: None
+
+Call
+====
+Sheep Count | Glass Bell    |100 AP|A| Put enemies to sleep
+100% Wool   | Earth Bell    |200 AP|A| Raises Defence and Resistance
+Cuisine     | Heal Chime    |300 AP|A| Fully restores HP
+Tail Wag    | Fairy Harp    |200 AP|A| Inflict Charm status on enemy
+Chocobo Rush| Satyr Flute   |300 AP|A| Straight line damage
+Frogsong    | Aona Flute    |200 AP|A| Turn enemy into a frog
+Friend      | Blood Strings |300 AP|A| Summon random spirit
+Catnip      | War Trumpet   |100 AP|A| Inflict Berserk status
+Block Arrows| Green Beret   |300 AP|R| Block all arrow attack
+Animal Combo| Mythril Bell  |100 AP|C| Use JP to attack with clan members
+
+
+4.31 MOG KNIGHT  *
+~~~~~~~~~~~~~~~
+Available to: Moogles only
+Requirements: 1 Animist A-ability
+
+Charge
+======
+Mog Attack   | Flametongue   |100 AP|A| Damage and push back target
+Mog Guard    | Kwigon Blade  |200 AP|A| Raise Defence and Resistance
+Mog Lance    | Atmos Blade   |200 AP|A| Wide ranged attack
+Mog Rush     | Shadow Blade  |200 AP|A| Double damage,halved accuracy
+Mog Shield   | Pearl Blade   |300 AP|A| Prevent next status ailment
+Mog Peek     | Paraiba Blade |300 AP|A| Find hidden equipment on enemy
+Mog Aid      | Icebrand      |300 AP|A| Cure HP and status
+Ultima Charge| Materia Blade |999 AP|A| Heavy damage
+Last Haste   | Gold Armor    |300 AP|R| Haste status when critical
+Shieldbearer | Round Shield  |300 AP|S| Equip a shield no matter what job
+Charge Combo | Mythril Blade |100 AP|C| Use JP to attack with clan members
+
+
+4.32 GUNNER  *
+~~~~~~~~~~~
+Available to: Moogles only
+Requirements: 1 Animist A-ability
+
+Gunmanship
+==========
+Fireshot   | Aiot Gun      |100 AP|A| Fire damage
+Boltshot   | Riot Gun      |100 AP|A| Thunder damage
+Iceshot    | Giot Gun      |100 AP|A| Ice damage
+Confushot  | Chaos Rifle   |200 AP|A| Attack and Confuse
+Charmshot  | Peacemaker    |300 AP|A| Attack and Charm
+Blindshot  | Silver Cannon |100 AP|A| Attack and Darkness
+Silenshot  | Lost Gun      |200 AP|A| Attack and Silence
+Stopshot   | Outsider      |300 AP|A| Attack and Stop
+Concentrate| Longbarrel    |300 AP|S| Raises accuracy of most actions
+Gun Combo  | Mythril Gun   |100 AP|C| Use JP to attack with clan members
+
+
+4.33 JUGGLER  *
+~~~~~~~~~~~~
+Available to: Moogle only
+Requirements: 2 Thief A-abilities
+
+Stunt
+=====
+Hurl        | Kris Knife     |100 AP|A| Throw an unequipped weapon
+Ring        | Rondell Dagger |200 AP|A| Cast Stop on target
+Firebomb    | Khukuri        |300 AP|A| Damage and Berserk
+Ball        | Scramasax      |200 AP|A| Inflict Confuse
+Dagger      | Jambiya        |300 AP|A| Damage and Disable
+Smile       | Orichalcum     |300 AP|A| Makes unit take turn immdeiately(Quicken)
+Gil Toss    | Jack Knife     |100 AP|A| Throw Gil at enemy
+Catch       | Chain Plate    |300 AP|R| Catch item thrown by enemy
+Return Fire | Power Sash     |300 AP|R| Return arrow attacks
+Juggle Combo| Mythril Knife  |100 AP|C| Use JP to attack with clan members
+
+
+4.34 GADGETEER  *
+~~~~~~~~~~~~~~
+Available to: Moogle only
+Requirements: 2 Thief A-abilities
+
+Pandora
+=======
+Red Spring   | Rising Sun    |200 AP|A| Haste status on all
+Blue Screw   | White Fangs   |200 AP|A| Dispel on all
+Green Gear   | Sick Knuckles |200 AP|A| Poison all
+Silver Disc  | Hard Knuckles |200 AP|A| Darkness on all
+Gold Battery | Cat Claws     |200 AP|A| Recover HP for all
+Black Ingot  | Death Claws   |200 AP|A| Doom on all
+Chroma Gem   | Dream Claws   |200 AP|A| Sleep on all
+Yellow Spring| Survivor      |200 AP|A| Casts Protect and Shell on all
+Auto-Regen   | Gaia Gear     |300 AP|R| Regen status effect when attacked
+Damage > MP  | Judo Uniform  |300 AP|S| MP damage instead of HP damage
+Gadget Combo | Mythril Claws |100 AP|C| Use JP to attack with clan members
+
+Note: The Pandora A-abilities involve flipping a coin to see who the ability
+will affect. If it lands on a red sun then all your units will be affected, if
+it lands on a yellow moon with a green background then you all your enemies will
+be affected.

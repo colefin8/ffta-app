@@ -1,0 +1,876 @@
+ ---------------------------------------------------
+ 1.01 Swords       1-handed (SLD/WAR/DRG) [WEAPSWRD]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Shortsword      25    0    0    0   0   0   0   0      none             none
+  Silver Sword    30    0    0    0   2   0   0   2      none             none
+  Buster Sword    35    5    0    0   0   0   0   0      none             none
+  Burglar Sword   39    0    0    0   0   0   0   0      none             none
+  Gale Sword      36    0    0    0   1   0   0   0      Wind             none
+  Blood Sword     18    0    0    0   0   0   0   0      none       Drain's HP
+  Restorer        40    0    5    5   0   0   0   0      none             none
+  Vitanova        38    0    2    0   0   0   0   2      Holy       [absb]Holy
+  Mythril Sword   32    0    0    0   0   0   1   0      none             none
+  Victor Sword    33   10    0   10   0   0   0   0      none             none
+  Onion Sword     29    5    0    5   0   0   0  10      none             none
+  Chirirjiraden   65    0    0    0   0   0   0   0      none             none
+  Laglace Sword   41    0    5    0   0   0   0   0       Ice             none
+
+
+  Abilities:
+  ----------
+
+   Shortsword      First Aid      (A) (SLD/WAR|100)
+   Silver Sword    Speedbreak     (A) (SLD/WAR|200)
+   Buster Sword    Mindbreak      (A) (SLD/WAR|200)
+   ------------    Wyrmtamer      (A) (DRG|200)
+   Burglar Sword   Sensor         (A) (SLD|300)
+   Gale Sword      Greased Bolt   (A) (WAR|300)
+   Blood Sword     Provoke        (A) (SLD|300)
+   -----------     Wyrmkiller     (A) (DRG|300)
+   Restorer        Downsize       (A) (WAR|300)
+   --------        Lancet         (A) (DRG|300)
+   Vitanova        Dragonheart    (R) (DRG|300)
+   Mythril Sword   Combat Combo   (C) (SLD/WAR|100)
+   Victor Sword    none
+   Onion Sword     none
+   Chirirjiraden   none
+   Laglace Sword   none
+
+
+ ---------------------------------------------------
+ 1.02 Blades       1-handed (FGT/GLD/MOG) [WEAPBLDE]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Sweep Blade     28    0    0    0   0   0   0   0      none             none
+  Shadow Blade    32    0    0    0   0   0   0   2      none             none
+  Sun Blade       37    0    0    0   2   0   0   0      none             none
+  Atmos Blade     36    0    0    0   0   0   0   0   Lightng             none
+  Flametongue     38    0    0    0   0   0   0   0      Fire             none
+  Air Blade       40    0    0    0   0   0   0   0      Wind       [null]Wind
+  Icebrand        42    0    0    0   0   0   0   0       Ice             none
+  Kwigon Blade    40    3    0    3   0   0   0   0      none             none
+  Ogun Blade      42    0    2    0   0   0   0   0      none             none
+  Pearl Blade     46    0    0    0   0   0   0   0      none             none
+  Paraiba Blade   33    0   10    0   0   0   0   2      none             none
+  Venus Blade     45    0    2    0   2   0   0   0      Fire       [absb]Fire
+  -----------     --    -    -    -   -   -   -   -      ----      [half]Water
+  Materia Blade   17    0   15   10   0   0   0   0      none             none -
+  Mythril Blade   32    0    0    0   0   0   1   0      none             none
+  Ebon Blade      84    5    0    0   0   0   0   0      Dark             none -
+  Adaman Blade    65   15    0    0   0   0   0   0      none             none -
+  Ayvuir Red      62   10    0    0   2   0   0   0      none             none
+  Ayvuir Blue     51    0    0   10   0   0   0   2      none             none
+
+
+  Abilities:
+  ----------
+
+   Sweep Blade     Rush           (A) (FGT/GLD|100)
+   Shadow Blade    Beatdown       (A) (FGT/GLD|200)
+   ------------    Mog Rush       (A) (MOG|200)
+   Sun Blade       Blitz          (A) (FGT/GLD|200)
+   Atmos Blade     Air Render     (A) (FGT|200)
+   -----------     Mog Lance      (A) (MOG|200)
+   Flametongue     Backdraft      (A) (FGT|300)
+   -----------     Fire Sword     (A) (GLD|200)
+   -----------     Mog Attack     (A) (MOG|100)
+   Air Blade       Air Blast      (A) (FGT|300)
+   ---------       Bolt Sword     (A) (GLD|200)
+   Icebrand        Ice Sword      (A) (GLD|200)
+   --------        Mog Aid        (A) (MOG|300)
+   Kwigon Blade    Far Fist       (A) (FGT|200)
+   ------------    Mog Guard      (A) (MOG|200)
+   Ogun Blade      Wild Swing     (A) (FGT/GLD|200)
+   Pearl Blade     Mog Shield     (A) (MOG|300)
+   Paraiba Blade   Mog Peek       (A) (MOG|300)
+   Venus Blade     Doublehand     (S) (FGT/GLD|300)
+   Materia Blade   Ultima Charge  (A) (MOG|999)                   -NOT VERIFIED-
+   Mythril Blade   Fight Combo    (C) (FGT/GLD/MOG|100)         
+   Ebon Blade      none                                           -NOT VERIFIED-
+   Adaman Blade    none                                           -NOT VERIFIED-
+   Ayvuir Red      none
+   Ayvuir Blue     none
+
+
+ ---------------------------------------------------
+ 1.03 Sabers       1-handed (BLU)         [WEAPSABR]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Blue Saber      25    0    0    0   2   0   0   0      none             none
+  Mythril Saber   32    0    0    0   0   0   1   0      none             none  
+  Shamshir        31    0    0    0   0   0   0   2      none             none
+  Aqua Saber      36    0    0    0   0   0   0   6     Water             none
+  Harpe           42    0    5    0   0   0   0   0      none             none
+  Manganese       47    0   10    0   0   0   0   3      none             none
+  Tulwar          55   10    0   10   2   0   0   0      none             none -
+  Soulsaber       39    0    0   10   0   0   0   5      Fire             none
+
+
+  Abilities:
+  ----------
+
+   Blue Saber      Learning       (S) (BLU|400)
+   Mythril Saber   Blue Combo     (C) (BLU|100)                   
+   Shamshir        none
+   Aqua Saber      none
+   Harpe           none
+   Manganese       none
+   Tulwar          none                                           -NOT VERIFIED-
+   Soulsaber       none
+
+
+ ---------------------------------------------------
+ 1.04 Knightswords 1-handed (PAL/TEM/DEF) [WEAPKSWD]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Defender        37    0    0    0   0   0   0   0      none             none
+  Apocalypse      32    0    0    0   0   0   0   0      Dark             none
+  Lionheart       34    2    0    1   0   0   0   0      none             none
+  Ragnarok        36    0    5    0   0   0   0   0      none             none
+  Lohengrin       46    0    0    0   0   0   0   0      none             none
+  SaveTheQueen    45    3    0    3   0   0   0   5      Holy       [enhn]Holy
+  Arch Sword      48    0    0    0   0   0   0   0      none             none
+  Excalibur       47    0    2    0   1   0   0   5      Holy       [enhn]Holy
+  ---------       --    -    -    -   -   -   -   -      ----       [absb]Holy
+  Mythril Brand   32    0    0    0   0   0   1   0      none             none -
+  Excalibur2      87    0    3    0   4   0   0   5      none             none -
+  Nagrarok        75    0    0    0   6   1   0   0      none             none -
+  Sequence*       32    2    5    2   2   1   1   2      none      WAtt growth
+
+  *Sequence:
+   Each time you get this weapon, insted of adding another WAtt grows by 1
+
+
+  Abilities:
+  ----------
+
+   Defender        Nurse          (A) (PAL|100)
+   --------        Hibernate      (A) (DEF|100)
+   Apocalypse      Rasp           (A) (TEM|100)
+   Lionheart       Defense        (A) (PAL/DEF|200)
+   Ragnarok        Drop Weapon    (A) (PAL/DEF|200)
+   --------        Silence        (A) (TEM|200)
+   Lohengrin       Aura           (A) (DEF|300)
+   ---------       Haste          (A) (TEM|200)
+   SaveTheQueen    Cover          (A) (PAL|200)
+   ------------    Expert Guard   (A) (DEF|300)
+   ------------    Astra          (A) (TEM|200)
+   Arch Sword      Saint Cross    (A) (PAL|300)
+   ----------      Soul Sphere    (A) (TEM|300)
+   Excalibur       Holy Blade     (A) (PAL|300)
+   Mythril Brand   Knight Combo   (C) (PAL|100)                   -NOT VERIFIED-
+   ------- -----   Sacred Combo   (C) (TEM|100)                   -NOT VERIFIED-
+   ------- -----   Defend Combo   (C) (DEF|100)                   -NOT VERIFIED-
+   Excalibur2      none                                           -NOT VERIFIED-
+   Nagrarok        none                                           -NOT VERIFIED-
+   Sequence        none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.05 Greatswords  2-handed (SLD/PAL)     [WEAPGSWD]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Barong          30    0    0    0   0   0   0   0      none             none
+  Ancient Sword   32    0    0    0   0   0   0   0      none    [null]Petrify
+  Diamond sword   32    0    0    0   0   0   0   0      none       [null]Slow -
+  Hardedge        42    0    0    0   0   0   0   0      none       [null]Doom
+  Vigilante       37    0    0    0   0   0   0   0      none  [null]Confusion
+  Zankplus        49    0    0    0   0   0   0   0      none     [null]Poison -
+  Master Sword    59    0    0    0   0   0   0   0      none         [null]KO -
+  Oblige          48    0    0    0   0   0   0   0      none      [null]Charm -
+  Iceprism        45    0    0    0   0   0   0   0       Ice   [null]Fire/Ice -
+  Lurebreaker     51    0    0    0   0   0   0   0      none      [null]Sleep -
+
+
+  Abilities:
+  ----------
+
+   Barong          Powerbreak     (A) (SLD|200)
+   ------          Parley         (A) (PAL|200)
+   Ancient Sword   Magicbreak     (A) (SLD|200)
+   -------------   Subdue         (A) (PAL|200)
+   Diamond sword   Mug            (A) (SLD|300)                   -NOT VERIFIED-
+   Hardedge        none
+   Vigilante       Monkey Grip    (S) (SLD|300)
+   Zankplus        none                                           -NOT VERIFIED-
+   Master Sword    none                                           -NOT VERIFIED-
+   Oblige          none                                           -NOT VERIFIED-
+   Iceprism        none                                           -NOT VERIFIED-
+   Lurebreaker     none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.06 Broadswords  2-handed (WAR/DEF)     [WEAPBSWD]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Samson Sword    32    5    0    0   0   0   0   0     Earth             none
+  Falchion        27    5    0    0   0   0   0   0      none             none
+  Predator        37    5    0    0   0   0   0   0      none             none
+  Striborg        33    5    0    0   0   0   0   0      none             none
+  El Cid Sword    47   10    0    0   0   0   0   0      none             none
+  Claymore        49    5    0    0   0   0   0   0      none             none
+  Vajra           45    5    0    5   0   0   0   0   Lightng  [enhn]Lightning
+  Tabarise        47    5    0    0   2   0   0   2      none             none -
+  Rhomphia        57    5    0    0   0   0   0   0      none             none -
+  Beastsword      50    5    0    0   0   0   0   0      none             none -
+  Eclipse         76    5    5    0   0   0   0   0      none             none -
+  Estreledge      77    5    0    5   0   0   0   0      none             none -
+
+
+  Abilities:
+  ----------
+
+   Samson Sword    Powerbreak     (A) (WAR|200)
+   Falchion        Magicbreak     (A) (WAR|200)
+   Predator        Last Berserk   (S) (DEF|300)
+   Striborg        Body Slam      (A) (WAR|300)
+   --------        Mow Down       (A) (DEF|200)
+   El Cid Sword    Tremor         (A) (DEF|100)
+   Claymore        Monkey Grip    (S) (WAR|300)
+   Vajra           Meltdown       (A) (DEF|200)
+   Tabarise        none                                           -NOT VERIFIED-
+   Rhomphia        none                                           -NOT VERIFIED-
+   Beastsword      none                                           -NOT VERIFIED-
+   Eclipse         none                                           -NOT VERIFIED-
+   Estreledge      none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.07 Knives       1-handed (THF/JGL)     [WEAPKNFE]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Jack Knife      22    0    0    0   0   0   0   1      none             none
+  Kris Knife      30    0    0    5   0   0   0   1      none             none
+  Khukuri         37    0    0    0   2   0   0   1      none             none
+  Kard            35    0    0    0   0   0   0   2      none             none
+  Scramasax       29    0    0    0   0   0   0   1      none             none
+  Rondell Dagger  33    0    0    0   0   0   0   1      none [null]Immobilize
+  --------------  --    -    -    -   -   -   -   -      ----    [null]Disable
+  Jambiya         31    0    2    0   0   0   0   1      none             none
+  Zorlin Shape    38    0    0    0   1   0   0   1      none             none
+  Sword Breaker   39    0    0    0   0   0   0   2      none             none
+  Orichalcum      60    0    2    0   0   0   0   1      none             none
+  Cinquedea       57    0    0    0   5   0   0   2      none             none
+  Mythril Knife   32    0    0    0   0   0   1   1      none             none
+  Tonberrian      37    0    0    0  10   0   0   0      none             none
+  Tiptaptwo       35    0    0    9  15   0   0   0      none             none -
+
+
+  Abilities:
+  ----------
+
+   Jack Knife      Steal: Gil     (A) (THF|100)
+   ----------      Gil Toss       (A) (JGL|100)
+   Kris Knife      Hurl           (A) (JGL|100)
+   Khukuri         Steal: EXP     (A) (THF|100)
+   -------         Firebomb       (A) (JGL|300)
+   Kard            Steal: Helm    (A) (THF|300)
+   Scramasax       Steal: Shield  (A) (THF|200)
+   ---------       Ball           (A) (JGL|200)
+   Rondell Dagger  Steal: Armor   (A) (THF|300)
+   --------------  Ring           (A) (JGL|200)
+   Jambiya         Steal: Access. (A) (THF|300)
+   -------         Dagger         (A) (JGL|300)
+   Zorlin Shape    none
+   Sword Breaker   Steal: Weapon  (A) (THF|300)
+   Orichalcum      Steal: JP      (A) (THF|200)
+   ----------      Smile          (A) (JGL|300)
+   Cinquedea       Steal: Ability (A) (THF|300)
+   Mythril Knife   Thief Combo    (C) (THF|100)
+   ------- -----   Juggle Combo   (C) (JGL|100)
+   Tonberrian      none
+   Tiptaptwo       none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.08 Rapiers      1-handed (FEN/RED/EMT) [WEAPRAPR]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Stinger         25    0    0    0   2   0   0   0      none             none
+  Estoc           32    0    0    0   2   0   0   0      none             none
+  Fleuret         27    0    0    0   2   0   0   0      none             none
+  Scarlette       27    0    2    0   2   0   0   0      Fire             none
+  Flamberge       35    5    0    0   2   0   0   0      none             none
+  Silver Rapier   35    0    0    0   2   0   0   0      none             none
+  Djinn Flyssa    34    0    2    0   2   0   0   2      Wind       [enhn]Wind
+  ------------    --    -    -    -   -   -   -   -      ----       [null]Wind
+  Joyeuse         37    0    0    5   2   0   0   0      none             none
+  Mage Masher     34    0    5   10   2   0   0   0      none             none
+  Colichemarde    36    0    0    0   2   0   0   0      none    [null]Berserk
+  Gupti Aga       38    0    0    0   2   0   0   0      none             none
+  Madu            33    0    0    0   2   0   0   0      none             none -
+  Epeprism        37    0    0    0   2   0   1   0      none  [half]Holy/Dark -
+  Mythril Rapier  32    0    0    0   2   0   1   0      none             none
+  Last Letter     45    0    0    0   2   0   0   3      none             none
+  Femme Fatale    49    0    0    0   2   0   0   0      none       [null]Doom -
+  Aerial Hole     43    0    8    0   2   0   0   0      Wind             none
+  Diabolique      41    0    0    5   2   0   0   0      Dark       [null]Dark -
+
+
+  Abilities:
+  ----------
+
+   Stinger         Swarmstrike    (A) (FEN|100)
+   -------         Thunder        (A) (RED|100)
+   Estoc           Featherblow    (A) (FEN|200)
+   -----           Sleep          (A) (RED|200)
+   -----           Heavy Dust     (A) (EMT|200)
+   Fleuret         Cure           (A) (RED|100)
+   -------         Earth Heal     (A) (EMT|200)
+   Scarlette       Fire           (A) (RED|100)
+   ---------       Fire Whip      (A) (EMT|100)
+   Flamberge       Piercethrough  (A) (FEN|200)
+   ---------       Blizzard       (A) (RED|100)
+   ---------       White Flame    (A) (EMT|100)
+   Silver Rapier   Shadowstick    (A) (FEN|200)
+   -------------   Sliprain       (A) (EMT|200)
+   -------------   Poison         (A) (RED|100)
+   Djinn Flyssa    Swallowtail    (A) (FEN|300)
+   ------------    Shining Air    (A) (EMT|200)
+   Joyeuse         Nighthawk      (A) (FEN|200)
+   -------         Evil Gaze      (A) (EMT|300)
+   Mage Masher     Manastrike     (A) (FEN|300)
+   -----------     Barrier        (A) (RED|300)
+   Colichemarde    Magic Pow+     (S) (RED|300)
+   Gupti Aga       Checkmate      (A) (FEN|300)
+   Madu            Doublecast     (A) (RED|999)                   -NOT VERIFIED-
+   Epeprism        Elemental Shift(A) (EMT|300)                   -NOT VERIFIED-
+   Mythril Rapier  Red Combo      (C) (RED|100)                 
+   ------- ------  Lunge Combo    (C) (FEN|100)                   -NOT VERIFIED-
+   ------- ------  Spirit Combo   (C) (EMT|100)                   -NOT VERIFIED-
+   Last Letter     none
+   Femme Fatale    none                                           -NOT VERIFIED-
+   Aerial Hole     none
+   Diabolique      none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.09 Katanas      1-handed (NIN/ASN)     [WEAPKTNA]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Ninja Knife     31    0    0    0   0   0   0   0      none             none
+  Murasame        31    0    0    0   0   0   0   0     Water             none
+  Ashura          33    0    0    0   0   0   0   0      Fire             none
+  Osafune         35    5    0    0   0   0   0   0      none             none
+  Petalchaser     34    0    0    0   0   0   0   0      none             none
+  Kotetsu         37    0    0    0   0   0   0   0      none             none
+  Kikuichimonji   40    0    0    5   0   0   0   0      none             none
+  Heaven's Cloud  39    0    0    5   0   0   0   0      Holy       [absb]Holy
+  Nosada          42    0    0    0   0   0   0   0      none             none
+  Masamune        65    0    0    0   0   0   0   0      none             none -
+  Zanmato         22    0    2    0   0   0   0   0      none             none -
+  Mythril Epee    32    0    0    0   0   0   1   0      none             none
+  Masamune 100    79    0    5    0   0   0   0   0      none             none -
+  Charfire        47    0    0    0   2   0   0   0      none             none
+  Silkmoon        55    0    0    0   0   0   0   2      none             none -
+
+
+  Abilities:
+  ----------
+
+   Ninja Knife     Throw          (A) (NIN|100)
+   Murasame        Water Veil     (A) (NIN|200)
+   --------        Aphonia        (A) (ASN|200)
+   Ashura          Fire Veil      (A) (NIN|200)
+   Osafune         Earth Veil     (A) (NIN|200)
+   Petalchaser     Last Breath    (A) (ASN|300)
+   Kotetsu         Wood Veil      (A) (NIN|200)
+   -------         Rockseal       (A) (ASN|300)
+   Kikuichimonji   Metal Veil     (A) (NIN|200)
+   -------------   Nightmare      (A) (ASN|300)
+   Heaven's Cloud  Unspell        (A) (NIN|300)
+   Nosada          Double Sword   (S) (NIN|999)
+   Masamune        Oblivion       (A) (NIN/ASN|300)               -NOT VERIFIED-
+   Zanmato         Ultima Masher  (A) (ASN|999)                   -NOT VERIFIED-
+   Mythril Epee    Ninja Combo    (C) (NIN|100)
+   ------------    Killer Combo   (C) (ASN|100)
+   Masamune 100    none                                           -NOT VERIFIED-
+   Charfire        none
+   Silkmoon        none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.10 Staves       1-handed (WHT/BIS/SUM) [WEAPSTFF]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  White Staff     19    0    0    5   0   0   0   0      none   Hit cures Doom
+  Guard Staff     21    5    0    5   0   0   0   0      none             none
+  Judge Staff     21    0    3    5   0   0   0   0   Lightng             none
+  Cure Staff      29    0    0    5   0   0   0   0      none     Hit heals HP
+  Pure Staff      23    0    0    5   0   0   0   0      none             none
+  Bless Staff     23    0    0    5   0   0   0   0      none             none
+  Snake Staff     29    0    0    5   0   0   0   0      none    [null]Petrify
+  Spring Staff    28    0    0    5   0   0   0   0     Water      [null]Water
+  Garnet Staff    31    5    0    5   0   0   0   0      none             none
+  Cheer Staff     32    0    0    5   0   0   0   2      none             none
+  Nirvana Staff   34    0    0   10   0   0   0   0      Holy             none -
+  Mythril Staff   32    0    0    5   0   0   1   0      none             none
+  Power Staff     45    6    0    5   0   0   0   0      none             none -
+  Dream Watcher   43    0   10   15   0   0   0   0      none             none -
+
+
+  Abilities:
+  ----------
+
+   White Staff     Cure           (A) (WHT|100)
+   Guard Staff     Protect        (A) (WHT|100)
+   -----------     Ifrit          (A) (SUM|200)
+   Judge Staff     Shell          (A) (WHT|100)
+   -----------     Aero           (A) (BIS|200)
+   -----------     Ramuh          (A) (SUM|200)
+   Cure Staff      Cura           (A) (WHT/BIS|200)
+   ----------      Kirin          (A) (SUM|200)
+   Pure Staff      Esuna          (A) (WHT|200)
+   ----------      Unicorn        (A) (SUM|200)
+   Bless Staff     Life           (A) (WHT|200)
+   -----------     Dispel         (A) (BIS|200)
+   Snake Staff     Break          (A) (BIS|200)
+   -----------     Shiva          (A) (SUM|200)
+   Spring Staff    Curaga         (A) (WHT|300)
+   ------------    Water          (A) (BIS|200)
+   Garnet Staff    Barrier        (A) (BIS|300)
+   ------------    Carbuncle      (A) (SUM|200)
+   Cheer Staff     Auto-Life      (A) (WHT|200)
+   -----------     Judge          (A) (BIS|300)
+   -----------     Madeen         (A) (SUM|300)
+   Nirvana Staff   Full-Life      (A) (WHT|300)                   -NOT VERIFIED-
+   ------- -----   Holy           (A) (BIS|300)                   -NOT VERIFIED-
+   ------- -----   Phoenix        (A) (SUM|300)                   -NOT VERIFIED-
+   Mythril Staff   Summon Combo   (C) (SUM|100)
+   ------- -----   White Combo    (C) (WHT|100)
+   ------- -----   Bishop Combo   (C) (BIS|100)                
+   Power Staff     none                                           -NOT VERIFIED-
+   Dream Watcher   none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.11 Rods         1-handed (BLK/TIM/ILU) [WEAPRODS]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Rod             18    0    2    0   0   0   0   0      none             none
+  Firewheel Rod   21    0    2    0   0   0   0   0      Fire             none
+  Thunder Rod     21    0    2    0   0   0   0   0   Lightng             none
+  Sleet Rod       21    0    2    0   0   0   0   0       Ice             none
+  Terre Rod       23    0    2    0   0   0   0   0     Earth      [enhn]Earth
+  Force Rod       25    0    5    0   0   0   0   0      none             none
+  Flame Rod       27    0    2    0   0   0   0   0      Fire       [enhn]Fire -
+  Thor Rod        27    0    2    0   0   0   0   0   Lightng  [enhn]Lightning
+  Chill Rod       27    0    2    0   0   0   0   0       Ice        [enhn]Ice -
+  Stardust Rod    29    5    0    0   0   0   0   0      none             none -
+  Princess Rod    35    5    2    5   0   0   0   0      none     [enhn]Wind &
+  ------------    --    -    -    -   -   -   -   -      ----    Earth & Water
+  Mythril Rod     32    0    2    0   0   0   1   0      none             none
+  Heretic Rod     31    0   20    0   0   0   0   0      Dark             none
+  Sapere Aude*    18    2    5    2   2   1   1   2      none      MPow growth
+
+  *Sapere Aude:
+   Each time you get this weapon, insted of adding another MPow grows by 1
+
+  Abilities:
+  ----------
+
+   Rod             Fire           (A) (BLK|100)
+   ---             Thunder        (A) (BLK|100)
+   ---             Blizzard       (A) (BLK|100)
+   Firewheel Rod   Fira           (A) (BLK|200)
+   -------------   Haste          (A) (TIM|200)
+   -------------   Prominence     (A) (ILU|100)
+   Thunder Rod     Thundara       (A) (BLK|200)
+   -----------     Reflect        (A) (TIM|300)
+   -----------     Tempest        (A) (ILU|100)
+   Sleet Rod       Blizzara       (A) (BLK|200)
+   ---------       Silence        (A) (TIM|200)
+   ---------       Freezeblink    (A) (ILU|100)
+   Terre Rod       Slow           (A) (TIM|200)
+   ---------       Soil Evidence  (A) (ILU|200)
+   Force Rod       Quarter        (A) (TIM|200)
+   Flame Rod       Firaga         (A) (BLK|300)                   -NOT VERIFIED-
+   Thor Rod        Thundaga       (A) (BLK|300)
+   --------        Quicken        (A) (TIM|300)
+   --------        Wild Tornado   (A) (ILU|200)
+   Chill Rod       Blizzaga       (A) (BLK|300)                   -NOT VERIFIED-
+   ----- ---       Stop           (A) (TIM|300)                   -NOT VERIFIED-
+   ----- ---       Deluge         (A) (ILU|300)                   -NOT VERIFIED-
+   Stardust Rod    Demi           (A) (TIM|300)                   -NOT VERIFIED-
+   -------- ---    Stardust       (A) (ILU|300)                   -NOT VERIFIED-
+   Princess Rod    Star Cross     (A) (ILU|300)
+   Mythril Rod     Black Combo    (A) (BLK|100)
+   ------- ---     Time Combo     (A) (TIM|100)
+   ------- ---     Spell Combo    (A) (ILU|100)
+   Heretic Rod     none
+   Sapere Aude     none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.12 Maces        1-handed (ALC/SAG)     [WEAPMACE]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Battle Mace     31    0    0    0   0   0   0   0      none             none
+  Energy Mace     29    0    2    5   0   0   0   0      none             none
+  Druid Mace      33    0    3    5   0   0   0   0      none             none
+  Sage Crosier    31    0    8    8   0   0   0   0      none             none
+  Morning Star    33    0    2    5   0   0   0   0      none             none
+  Mandragora      37    0    2    5   0   0   0   0     Earth      [absb]Earth -
+  ----------      --    -    -    -   -   -   -   -     -----     [null]Poison -
+  Life Crosier    35    0    2   10   0   0   0   0      none             none
+  Lotus Mace      37    0    2    5   0   0   0   0      Fire       [enhn]Fire
+  Scorpion Tail   38    0    2    5   0   0   0   0      none             none
+  Zeus Mace       15    0    5    5   0   0   0   0      none             none -
+  Mythril Mace    32    0    2    5   0   0   1   0      none             none
+  Cactus Stick    62    0    2    5   0   0   0   0      none             none
+  Vesper          39    0    2    5   0   0   0   0      none             none
+
+
+  Abilities:
+  ----------
+
+   Battle Mace     Water          (A) (SAG|200)
+   -----------     Aero           (A) (SAG|200)
+   Energy Mace     Drain          (A) (SAG|100)
+   -----------     Rasp           (A) (ALC|100)
+   Druid Mace      Blind          (A) (SAG|100)
+   ----------      Poison         (A) (ALC|100)
+   Sage Crosier    Astra          (A) (ALC|200)
+   Morning Star    Magic Pow+     (S) (ALC|300)
+   Mandragora      Bio            (A) (SAG|300)                   -NOT VERIFIED-
+   ----------      Toad           (A) (ALC|300)                   -NOT VERIFIED-
+   Life Crosier    Raise          (A) (SAG|300)
+   ------------    Death          (A) (ALC|300)
+   Lotus Mace      Giga Flare     (A) (SAG|300)
+   ----------      Flare          (A) (ALC|300)
+   Scorpion Tail   Meteor         (A) (ALC|300)
+   Zeus Mace       Ultima Blow    (A) (SAG|999)                   -NOT VERIFIED-
+   Mythril Mace    Gold Combo     (C) (ALC|100)
+   ------- ----    Wise Combo     (C) (SAG|100)                  
+   Cactus Stick    none
+   Vesper          none
+
+
+ ---------------------------------------------------
+ 1.13 Bows         2-handed (ARC)         [WEAPBOWS]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Longbow         19    0    0    0   0   0   0   0      none         Range: 5
+  Char Bow        21    0    0    0   0   0   0   0      none         Range: 5
+  Thorn Bow       25    0    0    0   0   0   0   0      none         Range: 5
+  Nail Bow        29    0    0    0   0   0   0   0      none         Range: 5
+  Silver Bow      23    0    0    0   0   0   0   0      none         Range: 6
+  Artemis Bow     27    0    0    0   0   0   0   0      none         Range: 7
+  Yoichi Bow      33    0    0    0   0   0   0   0      none         Range: 5
+  Target Bow      35    0    0    0   0   0   0   5      none         Range: 5
+  Perseus Bow     42    0    0    0   0   0   0   2      none         Range: 6 -
+  Mythril Bow     32    0    0    0   0   0   1   0      none         Range: 5 -
+  Crescent Bow    45    0    0    0   0   0   0   0      none         Range: 5
+  Malbow          55    0    0    0   0   0   0   0      none         Range: 5 -
+
+
+  Abilities:
+  ----------
+
+   Longbow         Boost          (A) (ARC|100)
+   Char Bow        Blackout       (A) (ARC|200)
+   Thorn Bow       Aim: Legs      (A) (ARC|200)
+   Nail Bow        Aim: Arm       (A) (ARC|200)
+   Silver Bow      Burial         (A) (ARC|300)
+   Artemis Bow     Cupid          (A) (ARC|200)
+   Yoichi Bow      Take Aim       (A) (ARC|300)
+   Target Bow      Concentrate    (S) (ARC|300)
+   Perseus Bow     Faster         (A) (ARC|300)                   -NOT VERIFIED-
+   Mythril Bow     Bow Combo      (C) (ARC|100)                   -NOT VERIFIED-
+   Crescent Bow    none
+   Malbow          none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.14 Greatbows    2-handed (HNT/ASN/SNP) [WEAPGBOW]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Windslash Bow   25    0    0    0   0   0   0   2      Wind         Range: 5
+  Ranger Bow      23    0    0    0   0   0   0   0     Earth         Range: 5
+  Cranequin       29    0    0    0   0   0   0   0      none         Range: 5
+  Twin Bow        31    0    0    0   0   0   0   0      none         Range: 5
+  Hunt Bow        33    0    0    0   0   0   0   0      none         Range: 5
+  Fey Bow         31    0    0    0   0   0   0   2      Wind         Range: 6 -
+  Hades Bow       33    0    0    0   0   0   0   0      Dark         Range: 5
+  Nike Bow        37    5    0    0   0   0   0   0   Lightng         Range: 5
+  Master Bow      41    0    0    0   0   0   0   2      none         Range: 5 -
+  Max's Oathbow   61    0    2    0   0   0   0   0      Dark         Range: 6 -
+  Seventh Heaven  15    0    0    0   0   0   0   5      Holy         Range: 5 -
+  Mythril Shot    32    0    0    0   0   0   1   0      none         Range: 5
+  Marduk Bow      39    0    0    0   0   0   0   0      none         Range: 7
+  Arbalest        42    0    0    0   0   0   0   0     Earth         Range: 7 -
+  Gastra Bow      51    0    0    0   0   0   0   0      none         Range: 7
+
+
+  Abilities:
+  ----------
+
+   Windslash Bow   Oust           (A) (HNT|200)
+   -------------   Conceal        (A) (SNP|100)
+   Ranger Bow      Capture        (A) (HNT|200)
+   ----------      Ague           (A) (ASN|200)
+   Cranequin       Sonic Boom     (A) (HNT|200)
+   ---------       Beso Toxico    (A) (SNP|200)
+   Twin Bow        Advice         (A) (HNT|100)
+   --------        Doubleshot     (A) (SNP|300)
+   Hunt Bow        Hunting        (A) (HNT|300)
+   --------        Aim: Wallet    (A) (SNP|200)
+   Fey Bow         Aim: Vitals    (A) (HNT|300)                   -NOT VERIFIED-
+   --- ---         Aim: Armor     (A) (SNP|300)                   -NOT VERIFIED-
+   --- ---         Shadowbind     (A) (ASN|300)                   -NOT VERIFIED-
+   Hades Bow       Sidewinder     (A) (HNT|300)
+   ---------       Death Sickle   (A) (SNP|300)
+   Nike Bow        Weapon Atk+    (S) (HNT|300)
+   Master Bow      Addle          (A) (HNT|300)                   -NOT VERIFIED-
+   ------ ---      Aim: Weapon    (A) (SNP|300)                   -NOT VERIFIED-
+   Max's Oathbow   Doom Archer    (A) (SNP|300)                   -NOT VERIFIED-
+   Seventh Heaven  Ultima Shot    (A) (HNT|999)                   -NOT VERIFIED-
+   Mythril Shot    Hunt Combo     (C) (HNT|100)
+   ------------    Sniper Combo   (C) (SNP|100)
+   Marduk Bow      none
+   Arbalest        none                                           -NOT VERIFIED-
+   Gastra Bow      none
+
+
+ ---------------------------------------------------
+ 1.15 Spears       1-handed (DRG/TEM)     [WEAPSPER]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Javelin         31    0    0    0   0   0   0   0      none        Pierce: 2
+  Lava Spear      33    0    0    0   0   0   0   0      Fire        Pierce: 2
+  Gae Bolg        39    0    0    0   0   0   0   0   Lightng        Pierce: 2
+  Ice Lance       35    0    0    0   0   0   0   0       Ice        Pierce: 2
+  Partisan        42    0    0    0   0   0   1   0      none        Pierce: 2
+  Kain's Lance    47    0    0    0   0   0   1   0      none        Pierce: 2
+  Trident         50    0    2    0   0   0   1   0      none        Pierce: 2
+  Dragon Whisker  45    0    0    0   0   0   1   0      none        Pierce: 2
+  Mythril Spear   32    0    0    0   0   0   2   0      none        Pierce: 2 -
+  Odin Lance      55    0    0    0   0   0   0   0      none        Pierce: 2 -
+  Beastspear      51   10    0    0   0   0   0   0      none        Pierce: 2
+  Bangaa Spike    53    5    2    5   0   0   0   0      none        Pierce: 2
+
+
+  Abilities:
+  ----------
+
+   Javelin         Warcry         (A) (TEM|300)
+   -------         Jump           (A) (DRG|100)
+   Lava Spear      Fire Breath    (A) (DRG|300)
+   Gae Bolg        Bolt Breath    (A) (DRG|300)
+   Ice Lance       Ice Breath     (A) (DRG|300)
+   Partisan        Cheer          (A) (TEM|100)
+   Kain's Lance    Lifebreak      (A) (TEM|300)
+   Trident         Weapon ATk+    (S) (TEM|300)
+   Dragon Whisker  Bangaa Cry     (A) (DRG|200)
+   Mythril Spear   Dragon Combo   (C) (DRG|100)                   -NOT VERIFIED-
+   Odin Lance      none                                           -NOT VERIFIED-
+   Beastspear      none
+   Bangaa Spike    none
+
+
+ ---------------------------------------------------
+ 1.16 Instruments  1-handed (BST/ANM)     [WEAPINMT]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Demon Bell      22    0    0    0   0   0   0   0      none             none
+  Glass Bell      25    0    0    1   0   0   0   0      none      [null]Sleep
+  War Trumpet     25    0    0    0   0   0   0   1      none             none
+  Conch Shell     31    2    0    0   0   0   0   0      none             none
+  Earth Bell      31    3    0    0   0   0   0   0     Earth      [absb]Earth
+  Black Quena     33    0    2    0   0   0   0   0      Dark             none
+  Satyr Flute     35    0    0    0   0   0   0   1      none      [null]Charm
+  Fairy Harp      29    0    2    0   0   0   0   0      none             none -
+  Aona Flute      32    0    0    2   0   0   0   0      none     [null]Poison
+  Heal Chime      39    0    0    0   0   0   0   1      Holy       [null]Doom
+  Blood Strings   22    0    0    0   0   0   0   1      none   Absb HP on Hit
+  Mythril Bell    32    0    0    0   0   0   1   0      none             none
+  Dark Fiddle     45    0    0    0   0   0   0   0      Dark    [null]Silence -
+  Fell Castanets  47    0    0    0   0   0   0   0      Dark             none -
+
+
+
+  Abilities:
+  ----------
+
+   Demon Bell      Goblin         (A) (BST|200)
+   ----------      Flan           (A) (BST|200)
+   ----------      Bomb           (A) (BST|200)
+   Glass Bell      Lamia          (A) (BST|200)
+   ----------      Flan           (A) (BST|200)
+   ----------      Sheep Count    (A) (ANM|100)
+   War Trumpet     Panther        (A) (BST|200)
+   -----------     Goblin         (A) (BST|200)
+   -----------     Catnip         (A) (ANM|100)
+   Conch Shell     Rockbeast      (A) (BST|200)
+   Earth Bell      Dragon         (A) (BST|200)
+   ----------      100% Wool      (A) (ANM|200)
+   Black Quena     Floateye       (A) (BST|200)
+   -----------     Undead         (A) (BST|200)
+   Satyr Flute     Chocobo Rush   (A) (ANM|300)
+   Fairy Harp      Fairy          (A) (BST|200)                   -NOT VERIFIED-
+   ----- ----      Bug            (A) (BST|200)                   -NOT VERIFIED-
+   ----- ----      Tail Wag       (A) (ANM|200)                   -NOT VERIFIED-
+   Aona Flute      Malboro        (A) (BST|200)
+   ----------      Bomb           (A) (BST|200)
+   ----------      Frogsong       (A) (ANM|200)
+   Heal Chime      Cuisine        (A) (ANM|300)
+   Blood Strings   Tonberry       (A) (BST|200)
+   -------------   Friend         (A) (ANM|300)
+   Mythril Bell    Beast Combo    (C) (BST|100)                    
+   ------- ----    Animal Combo   (C) (ANM|100)                   
+   Dark Fiddle     none                                           -NOT VERIFIED-
+   Fell Castanets  none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.17 Knuckles     1-handed (MNK/GDT)     [WEAPKNKL]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Hard Knuckles   29    0    0    0   0   0   0   1      none             none
+  Rising Sun      31    0    0    0   0   0   0   1      Fire             none
+  Sick Knuckles   35    0    0    0   0   0   0   1      none             none
+  Dream Claws     39    0    0    0   0   0   0   1      none             none
+  Kaiser Knuckles 42    0    0    0   0   0   0   1      none             none
+  Cat Claws       35    0    0    0   2   0   0   1      none             none
+  Survivor        37    2    0    0   0   0   0   2      none             none
+  White Fang      39    0    0    0   0   0   0   1       Ice             none
+  Godhand         39    0    3    0   1   0   0   5      Holy             none
+  Tiger Fangs     41    0    0    0   0   0   0   2   Lightng             none
+  Death Claws     43    0    0    0   0   0   0   1      Dark             none -
+  Mythril Claws   32    0    0    0   0   0   1   1      none             none -
+  Greasebust      59    0    0    0   0   0   0   1      none             none -
+  Magic Hands     52    0    0    0   0   0   0   1      none             none -
+
+
+  Abilities:
+  ----------
+
+   Hard Knuckles   Whirlwind      (A) (MNK|100)
+   -------------   Silver Disc    (A) (GDT|200)
+   Rising Sun      Exorcise       (A) (MNK|300)
+   ----------      Red Spring     (A) (GDT|200)
+   Sick Knuckles   Green Gear     (A) (GDT|200)
+   Dream Claws     Chroma Gem     (A) (GDT|200)
+   Kaiser Knuckles Air Render     (A) (MNK|200)
+   Cat Claws       Chakra         (A) (MNK|200)
+   ---------       Gold Battery   (A) (GDT|200)
+   Survivor        Revive         (A) (MNK|300)
+   --------        Yellow Spring  (A) (GDT|200)
+   White Fang      Holy Sign      (A) (MNK|200)
+   ----------      Blue Screw     (A) (GDT|200)
+   Godhand         Far Fist       (A) (MNK|200)
+   Tiger Fangs     Earth Render   (A) (MNK|200)
+   Death Claws     Black Ingot    (A) (GDT|200)                   -NOT VERIFIED-
+   Mythril Claws   Monk Combo     (C) (MNK|100)                   -NOT VERIFIED-
+   ------- -----   Gadget Combo   (C) (GDT|100)                   -NOT VERIFIED-
+   Greasebust      none                                           -NOT VERIFIED-
+   Magic Hands     none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.18 Souls        1-handed (MOR)         [WEAPSOUL]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Goblin Soul     32    0    2    0   0   0   0   1      none        [half]Ice -
+  Flan Soul       34   10    2    0   0   0   0   0      none  [half]Lightning
+  Bomb Soul       36    0    2    0   0   0   0   0      Fire       [half]Fire
+  Dragon Soul     43    5    2    0   0   0   0   0      none      [absb]Earth
+  Lamia Soul      41    0    2    0   0   0   0   0     Water      [null]Sleep
+  Bug Soul        39    2    2    0   0   0   0   0     Earth       [null]Dark
+  Panther Soul    39    0    2    0   0   0   0   2      none    [null]Berserk -
+  Malboro Soul    47    0    2    2   0   0   0   0      none     [null]Poison
+  Eye Soul        45    0    2    0   0   0   0   0      Dark       [null]Doom
+  Mythril Soul    32    0    2    0   0   0   1   0      none             none
+  Dread Soul      49    0    2    0   0   0   0   0      none             none -
+  Rukavi Soul     67    0    2    0   0   0   0   0      none             none -
+
+
+  Abilities:
+  ----------
+
+   Goblin Soul     Goblin         (A) (MOR|200)                   -NOT VERIFIED-
+   Flan Soul       Flan           (A) (MOR|200)
+   Bomb Soul       Bomb           (A) (MOR|200)
+   Dragon Soul     Dragon         (A) (MOR|200)
+   Lamia Soul      Lamia          (A) (MOR|200)
+   Bug Soul        Bug            (A) (MOR|200)
+   Panther Soul    Panther        (A) (MOR|200)                   -NOT VERIFIED-
+   Malboro Soul    Malboro        (A) (MOR|200)
+   Eye Soul        Floateye       (A) (MOR|200)
+   Mythril Soul    Morph Combo    (C) (MOR|100)
+   Dread Soul      none                                           -NOT VERIFIED-
+   Rukavi Soul     none                                           -NOT VERIFIED-
+
+
+ ---------------------------------------------------
+ 1.19 Guns         1-handed (GUN)         [WEAPGUNS]
+ ---------------------------------------------------
+
+  Name           WAtt WDef MPow MRes Spd Mov Jmp Evd  ELEMENT  SPECIAL-EFFECTS
+
+  Aiot Gun        27    0    0    0   0   0   0   0      none         Range: 8
+  Silver Cannon   31    0    0    0   0   0   0   0      none         Range: 7
+  Riot Gun        31    0    0    0   0   0   0   0      none         Range: 8
+  Chaos Rifle     33    0    0    0   0   0   0   0      none         Range: 8
+  Lost Gun        31    0    0    0   0   0   0   0      none         Range: 8
+  Peacemaker      33    0    0    0   0   0   0   0      none         Range: 8
+  Giot Gun        37    0    0    0   0   0   0   0      none         Range: 8
+  Longbarrel      39    0    0    0   0   0   0   0      none         Range: 8
+  Outsider        41    0    0    0   0   0   0   0      none         Range: 9
+  Mythril Gun     32    0    0    0   0   0   1   0      none         Range: 8
+  Blindsnipe      47    0    0    0   0   0   0   0      none         Range: 8 -
+  Calling Gun     59    0    0    0   0   0   0   0      none         Range: 8 -
+
+
+  Abilities:
+  ----------
+
+   Aiot Gun        Fireshot       (A) (GUN|100)
+   Silver Cannon   Blindshot      (A) (GUN|100)
+   Riot Gun        Boltshot       (A) (GUN|100)
+   Chaos Rifle     Confushot      (A) (GUN|200)
+   Lost Gun        Silenshot      (A) (GUN|200)
+   Peacemaker      Charmshot      (A) (GUN|300)
+   Giot Gun        Iceshot        (A) (GUN|100)
+   Longbarrel      Concentrate    (S) (GUN|300)
+   Outsider        Stopshot       (A) (GUN|300)
+   Mythril Gun     Gun Combo      (C) (GUN|100)
+   Blindsnipe      none                                           -NOT VERIFIED-
+   Calling Gun     none                                           -NOT VERIFIED-
