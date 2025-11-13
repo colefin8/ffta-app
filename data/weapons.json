@@ -413,9 +413,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Ultima Charge (A) (MOG|999) -NOT VERIFIED-"
+        "Ultima Charge (A) (MOG|999)"
       ]
     },
     {
@@ -445,9 +445,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Dark",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -461,9 +461,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -607,9 +607,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -769,9 +769,9 @@
       "Jmp": 1,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Knight Combo (C) (PAL|100) -NOT VERIFIED-"
+        "Knight Combo (C) (PAL|100)"
       ]
     },
     {
@@ -785,9 +785,9 @@
       "Jmp": 0,
       "Evd": 5,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -801,9 +801,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -865,9 +865,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]Slow -",
+      "special_effects": "[null]Slow",
       "abilities": [
-        "Mug (A) (SLD|300) -NOT VERIFIED-"
+        "Mug (A) (SLD|300)"
       ]
     },
     {
@@ -913,9 +913,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]Poison -",
+      "special_effects": "[null]Poison",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -929,9 +929,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]KO -",
+      "special_effects": "[null]KO",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -945,9 +945,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]Charm -",
+      "special_effects": "[null]Charm",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -961,9 +961,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Ice",
-      "special_effects": "[null]Fire/Ice -",
+      "special_effects": "[null]Fire/Ice",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -977,9 +977,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]Sleep -",
+      "special_effects": "[null]Sleep",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -1107,9 +1107,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -1123,9 +1123,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -1139,9 +1139,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -1155,9 +1155,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -1171,9 +1171,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -1397,9 +1397,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -1591,9 +1591,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Doublecast (A) (RED|999) -NOT VERIFIED-"
+        "Doublecast (A) (RED|999)"
       ]
     },
     {
@@ -1607,9 +1607,9 @@
       "Jmp": 1,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[half]Holy/Dark -",
+      "special_effects": "[half]Holy/Dark",
       "abilities": [
-        "Elemental Shift(A) (EMT|300) -NOT VERIFIED-"
+        "Elemental Shift(A) (EMT|300)"
       ]
     },
     {
@@ -1655,9 +1655,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "[null]Doom -",
+      "special_effects": "[null]Doom",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -1687,9 +1687,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Dark",
-      "special_effects": "[null]Dark -",
+      "special_effects": "[null]Dark",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -1849,7 +1849,7 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": []
     },
     {
@@ -1863,9 +1863,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Ultima Masher (A) (ASN|999) -NOT VERIFIED-"
+        "Ultima Masher (A) (ASN|999)"
       ]
     },
     {
@@ -1895,9 +1895,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "0",
-      "special_effects": "none             none -",
+      "special_effects": "none             none",
       "abilities": [
-        "Oblivion (A) (NIN/ASN|300) -NOT VERIFIED-"
+        "Oblivion (A) (NIN/ASN|300)"
       ]
     },
     {
@@ -1927,9 +1927,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -2105,9 +2105,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Holy",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Full-Life (A) (WHT|300) -NOT VERIFIED-"
+        "Full-Life (A) (WHT|300)"
       ]
     },
     {
@@ -2137,9 +2137,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -2153,9 +2153,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -2267,9 +2267,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Fire",
-      "special_effects": "[enhn]Fire -",
+      "special_effects": "[enhn]Fire",
       "abilities": [
-        "Firaga (A) (BLK|300) -NOT VERIFIED-"
+        "Firaga (A) (BLK|300)"
       ]
     },
     {
@@ -2299,9 +2299,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Ice",
-      "special_effects": "[enhn]Ice -",
+      "special_effects": "[enhn]Ice",
       "abilities": [
-        "Blizzaga (A) (BLK|300) -NOT VERIFIED-"
+        "Blizzaga (A) (BLK|300)"
       ]
     },
     {
@@ -2315,9 +2315,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Demi (A) (TIM|300) -NOT VERIFIED-"
+        "Demi (A) (TIM|300)"
       ]
     },
     {
@@ -2475,9 +2475,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Earth",
-      "special_effects": "[absb]Earth -",
+      "special_effects": "[absb]Earth",
       "abilities": [
-        "Bio (A) (SAG|300) -NOT VERIFIED-"
+        "Bio (A) (SAG|300)"
       ]
     },
     {
@@ -2539,9 +2539,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Ultima Blow (A) (SAG|999) -NOT VERIFIED-"
+        "Ultima Blow (A) (SAG|999)"
       ]
     },
     {
@@ -2733,9 +2733,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "none",
-      "special_effects": "Range: 6 -",
+      "special_effects": "Range: 6",
       "abilities": [
-        "Faster (A) (ARC|300) -NOT VERIFIED-"
+        "Faster (A) (ARC|300)"
       ]
     },
     {
@@ -2749,9 +2749,9 @@
       "Jmp": 1,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Range: 5 -",
+      "special_effects": "Range: 5",
       "abilities": [
-        "Bow Combo (C) (ARC|100) -NOT VERIFIED-"
+        "Bow Combo (C) (ARC|100)"
       ]
     },
     {
@@ -2781,9 +2781,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Range: 5 -",
+      "special_effects": "Range: 5",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -2879,9 +2879,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "Wind",
-      "special_effects": "Range: 6 -",
+      "special_effects": "Range: 6",
       "abilities": [
-        "Aim: Vitals (A) (HNT|300) -NOT VERIFIED-"
+        "Aim: Vitals (A) (HNT|300)"
       ]
     },
     {
@@ -2927,9 +2927,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "none",
-      "special_effects": "Range: 5 -",
+      "special_effects": "Range: 5",
       "abilities": [
-        "Addle (A) (HNT|300) -NOT VERIFIED-"
+        "Addle (A) (HNT|300)"
       ]
     },
     {
@@ -2943,9 +2943,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Dark",
-      "special_effects": "Range: 6 -",
+      "special_effects": "Range: 6",
       "abilities": [
-        "Doom Archer (A) (SNP|300) -NOT VERIFIED-"
+        "Doom Archer (A) (SNP|300)"
       ]
     },
     {
@@ -2959,9 +2959,9 @@
       "Jmp": 0,
       "Evd": 5,
       "element": "Holy",
-      "special_effects": "Range: 5 -",
+      "special_effects": "Range: 5",
       "abilities": [
-        "Ultima Shot (A) (HNT|999) -NOT VERIFIED-"
+        "Ultima Shot (A) (HNT|999)"
       ]
     },
     {
@@ -3007,9 +3007,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Earth",
-      "special_effects": "Range: 7 -",
+      "special_effects": "Range: 7",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -3169,9 +3169,9 @@
       "Jmp": 2,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Pierce: 2 -",
+      "special_effects": "Pierce: 2",
       "abilities": [
-        "Dragon Combo (C) (DRG|100) -NOT VERIFIED-"
+        "Dragon Combo (C) (DRG|100)"
       ]
     },
     {
@@ -3185,9 +3185,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Pierce: 2 -",
+      "special_effects": "Pierce: 2",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -3347,9 +3347,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Fairy (A) (BST|200) -NOT VERIFIED-"
+        "Fairy (A) (BST|200)"
       ]
     },
     {
@@ -3427,9 +3427,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Dark",
-      "special_effects": "[null]Silence -",
+      "special_effects": "[null]Silence",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -3443,9 +3443,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "Dark",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -3619,9 +3619,9 @@
       "Jmp": 0,
       "Evd": 1,
       "element": "Dark",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Black Ingot (A) (GDT|200) -NOT VERIFIED-"
+        "Black Ingot (A) (GDT|200)"
       ]
     },
     {
@@ -3635,9 +3635,9 @@
       "Jmp": 1,
       "Evd": 1,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "Monk Combo (C) (MNK|100) -NOT VERIFIED-"
+        "Monk Combo (C) (MNK|100)"
       ]
     },
     {
@@ -3651,9 +3651,9 @@
       "Jmp": 0,
       "Evd": 1,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -3667,9 +3667,9 @@
       "Jmp": 0,
       "Evd": 1,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -3685,9 +3685,9 @@
       "Jmp": 0,
       "Evd": 1,
       "element": "none",
-      "special_effects": "[half]Ice -",
+      "special_effects": "[half]Ice",
       "abilities": [
-        "Goblin (A) (MOR|200) -NOT VERIFIED-"
+        "Goblin (A) (MOR|200)"
       ]
     },
     {
@@ -3781,9 +3781,9 @@
       "Jmp": 0,
       "Evd": 2,
       "element": "none",
-      "special_effects": "[null]Berserk -",
+      "special_effects": "[null]Berserk",
       "abilities": [
-        "Panther (A) (MOR|200) -NOT VERIFIED-"
+        "Panther (A) (MOR|200)"
       ]
     },
     {
@@ -3845,9 +3845,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -3861,9 +3861,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "none -",
+      "special_effects": "none",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ],
@@ -4039,9 +4039,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Range: 8 -",
+      "special_effects": "Range: 8",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     },
     {
@@ -4055,9 +4055,9 @@
       "Jmp": 0,
       "Evd": 0,
       "element": "none",
-      "special_effects": "Range: 8 -",
+      "special_effects": "Range: 8",
       "abilities": [
-        "none -NOT VERIFIED-"
+        "none"
       ]
     }
   ]
