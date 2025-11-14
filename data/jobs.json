@@ -1,138 +1,246 @@
 {
-  "Humans": {
-    "Soldier": {
-      "requirement": "Auto"
-    },
-    "Paladin": {
-      "requirement": "2 Soldier Action-abilities"
-    },
-    "Fighter": {
-      "requirement": "2 Soldier Action-abilities"
-    },
-    "Thief": {
-      "requirement": "Auto"
-    },
-    "Ninja": {
-      "requirement": "2 Thief Action-abilities"
-    },
-    "White Mage": {
-      "requirement": "Auto"
-    },
-    "Black Mage": {
-      "requirement": "Auto"
-    },
-    "Illusionist": {
-      "requirement": "3 White Mage and 5 Black Mage Action-abilities"
-    },
-    "Blue Mage": {
-      "requirement": "1 White Mage and 1 Black Mage Action-ability"
-    },
-    "Archer": {
-      "requirement": "Auto"
-    },
-    "Hunter": {
-      "requirement": "2 Archer Action-abilities"
+  "Alchemist": {
+    "races": [
+      "Nu Mou"
+    ],
+    "requirements": {
+      "white mage and 5 black mage": 2
     }
   },
-  "Bangaa": {
-    "Warrior": {
-      "requirement": "Auto"
-    },
-    "Dragoon": {
-      "requirement": "2 Warrior Action-abilities"
-    },
-    "Defender": {
-      "requirement": "2 Warrior Action-abilities"
-    },
-    "Gladiator": {
-      "requirement": "2 Warrior Action-abilities"
-    },
-    "White Monk": {
-      "requirement": "Auto"
-    },
-    "Bishop": {
-      "requirement": "2 White Monk Action-abilities"
-    },
-    "Templar": {
-      "requirement": "2 White Monk Action-abilities"
+  "Animist": {
+    "races": [
+      "Moogles"
+    ],
+    "requirements": {}
+  },
+  "Archer": {
+    "races": [
+      "Humans",
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Assassin": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Beastmaster": {
+    "races": [
+      "Nu Mou"
+    ],
+    "requirements": {}
+  },
+  "Bishop": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {
+      "white monk": 2
     }
   },
-  "Nu Mou": {
-    "White Mage": {
-      "requirement": "Auto"
-    },
-    "Black Mage": {
-      "requirement": "Auto"
-    },
-    "Illusionist": {
-      "requirement": "3 White Mage and 5 Black Mage Action-abilities"
-    },
-    "Time Mage": {
-      "requirement": "5 Black Mage Action-abilities"
-    },
-    "Alchemist": {
-      "requirement": "2 White Mage and 5 Black Mage Action-abilities"
-    },
-    "Beastmaster": {
-      "requirement": "Auto"
-    },
-    "Morpher": {
-      "requirement": "5 Beastmaster Action-abilities"
-    },
-    "Sage": {
-      "requirement": "3 White Mage and 2 Beastmaster Action-abilties"
+  "Black Mage": {
+    "races": [
+      "Humans",
+      "Nu Mou",
+      "Moogles"
+    ],
+    "requirements": {}
+  },
+  "Blue Mage": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {}
+  },
+  "Defender": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {
+      "warrior": 2
     }
   },
-  "Viera": {
-    "White Mage": {
-      "requirement": "Auto"
-    },
-    "Fencer": {
-      "requirement": "Auto"
-    },
-    "Elementalist": {
-      "requirement": "1 White Mage and 1 Fencer Action-ability"
-    },
-    "Red Mage": {
-      "requirement": "1 Fencer Action-ability"
-    },
-    "Summoner": {
-      "requirement": "2 White Mage and 2 Elementalist Action-abilties"
-    },
-    "Archer": {
-      "requirement": "Auto"
-    },
-    "Assassin": {
-      "requirement": "2 Elementalist and 1 Sniper Action-abilites"
-    },
-    "Sniper": {
-      "requirement": "2 Archer Action-abilities"
+  "Dragoon": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {
+      "warrior": 2
     }
   },
-  "Moogles": {
-    "Black Mage": {
-      "requirement": "Auto"
-    },
-    "Time Mage": {
-      "requirement": "5 Black Mage Action-abilities"
-    },
-    "Animist": {
-      "requirement": "Auto"
-    },
-    "Mog Knight": {
-      "requirement": "1 Animist Action-ability"
-    },
-    "Gunner": {
-      "requirement": "1 Animist Action-ability"
-    },
-    "Thief": {
-      "requirement": "Auto"
-    },
-    "Juggler": {
-      "requirement": "2 Thief Action-abilities"
-    },
-    "Gadgeteer": {
-      "requirement": "2 Thief Action-abilities"
+  "Elementalist": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Fencer": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Fighter": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {
+      "soldier": 2
     }
+  },
+  "Gadgeteer": {
+    "races": [
+      "Moogles"
+    ],
+    "requirements": {
+      "thief": 2
+    }
+  },
+  "Gladiator": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {
+      "warrior": 2
+    }
+  },
+  "Gunner": {
+    "races": [
+      "Moogles"
+    ],
+    "requirements": {}
+  },
+  "Hunter": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {
+      "archer": 2
+    }
+  },
+  "Illusionist": {
+    "races": [
+      "Humans",
+      "Nu Mou"
+    ],
+    "requirements": {
+      "white mage and 5 black mage": 3
+    }
+  },
+  "Juggler": {
+    "races": [
+      "Moogles"
+    ],
+    "requirements": {
+      "thief": 2
+    }
+  },
+  "Mog Knight": {
+    "races": [
+      "Moogles"
+    ],
+    "requirements": {}
+  },
+  "Morpher": {
+    "races": [
+      "Nu Mou"
+    ],
+    "requirements": {
+      "beastmaster": 5
+    }
+  },
+  "Ninja": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {
+      "thief": 2
+    }
+  },
+  "Paladin": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {
+      "soldier": 2
+    }
+  },
+  "Red Mage": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Sage": {
+    "races": [
+      "Nu Mou"
+    ],
+    "requirements": {}
+  },
+  "Sniper": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {
+      "archer": 2
+    }
+  },
+  "Soldier": {
+    "races": [
+      "Humans"
+    ],
+    "requirements": {}
+  },
+  "Summoner": {
+    "races": [
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "Templar": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {
+      "white monk": 2
+    }
+  },
+  "Thief": {
+    "races": [
+      "Humans",
+      "Moogles"
+    ],
+    "requirements": {}
+  },
+  "Time Mage": {
+    "races": [
+      "Nu Mou",
+      "Moogles"
+    ],
+    "requirements": {
+      "black mage": 5
+    }
+  },
+  "Warrior": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {}
+  },
+  "White Mage": {
+    "races": [
+      "Humans",
+      "Nu Mou",
+      "Viera"
+    ],
+    "requirements": {}
+  },
+  "White Monk": {
+    "races": [
+      "Bangaa"
+    ],
+    "requirements": {}
   }
 }
